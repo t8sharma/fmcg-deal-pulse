@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="900" height="640" fill="#ffffff"/>
+  <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#0b5c4a">FMCG Deal Pulse — Pipeline Architecture</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#666">ingest → clean → de-duplicate → score → filter → newsletter</text>
+
+  <!-- defs -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#0b5c4a"/>
+    </marker>
+  </defs>
+
+  <!-- Sources -->
+  <rect x="310" y="80" width="280" height="58" rx="8" fill="#eef6f3" stroke="#0b5c4a"/>
+  <text x="450" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#08362b">Public Sources (keyless)</text>
+  <text x="450" y="124" text-anchor="middle" font-size="11" fill="#444">Google News RSS · FMCG + deal queries · optional trade RSS</text>
+
+  <!-- helper stage boxes -->
+  <!-- 1 ingest -->
+  <rect x="310" y="160" width="280" height="52" rx="8" fill="#0b5c4a"/>
+  <text x="450" y="181" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">1 · INGEST  (ingest.py)</text>
+  <text x="450" y="199" text-anchor="middle" font-size="11" fill="#cdeee4">fetch + parse RSS · recency filter</text>
+
+  <!-- 2 clean -->
+  <rect x="310" y="234" width="280" height="52" rx="8" fill="#0b5c4a"/>
+  <text x="450" y="255" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">2 · CLEAN & NORMALIZE  (clean.py)</text>
+  <text x="450" y="273" text-anchor="middle" font-size="11" fill="#cdeee4">strip publisher · resolve domain</text>
+
+  <!-- credibility side -->
+  <rect x="630" y="234" width="230" height="52" rx="8" fill="#13775f"/>
+  <text x="745" y="255" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">CREDIBILITY (credibility.py)</text>
+  <text x="745" y="273" text-anchor="middle" font-size="10.5" fill="#cdeee4">tiers 1.0 / 0.75 / 0.5 / 0.4</text>
+
+  <!-- 3 dedup -->
+  <rect x="310" y="308" width="280" height="60" rx="8" fill="#0b5c4a"/>
+  <text x="450" y="330" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">3 · DE-DUPLICATE  (clean.py)</text>
+  <text x="450" y="348" text-anchor="middle" font-size="10.5" fill="#cdeee4">exact URL/title +</text>
+  <text x="450" y="362" text-anchor="middle" font-size="10.5" fill="#cdeee4">near-dup: title-sim OR ≥2 shared entities</text>
+
+  <!-- 4 score -->
+  <rect x="310" y="390" width="280" height="60" rx="8" fill="#0b5c4a"/>
+  <text x="450" y="412" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">4 · SCORE RELEVANCE  (relevance.py)</text>
+  <text x="450" y="430" text-anchor="middle" font-size="10.5" fill="#cdeee4">deal-signal AND fmcg-signal · 0–100</text>
+  <text x="450" y="444" text-anchor="middle" font-size="10.5" fill="#cdeee4">extract parties / value / category</text>
+
+  <!-- 5 filter -->
+  <rect x="310" y="472" width="280" height="52" rx="8" fill="#0b5c4a"/>
+  <text x="450" y="493" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">5 · FILTER</text>
+  <text x="450" y="511" text-anchor="middle" font-size="11" fill="#cdeee4">relevance threshold + credibility floor</text>
+
+  <!-- 6 newsletter -->
+  <rect x="310" y="546" width="280" height="52" rx="8" fill="#0b5c4a"/>
+  <text x="450" y="567" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">6 · NEWSLETTER  (newsletter.py)</text>
+  <text x="450" y="585" text-anchor="middle" font-size="11" fill="#cdeee4">ranked deals + methodology</text>
+
+  <!-- outputs -->
+  <rect x="40" y="472" width="230" height="126" rx="8" fill="#eef6f3" stroke="#0b5c4a"/>
+  <text x="155" y="494" text-anchor="middle" font-size="12" font-weight="700" fill="#08362b">Outputs</text>
+  <text x="155" y="518" text-anchor="middle" font-size="11" fill="#333">raw_data.csv / raw_data.json</text>
+  <text x="155" y="540" text-anchor="middle" font-size="11" fill="#333">newsletter.docx</text>
+  <text x="155" y="562" text-anchor="middle" font-size="11" fill="#333">newsletter.md</text>
+  <text x="155" y="586" text-anchor="middle" font-size="10.5" fill="#666">(raw = all scored, incl. rejected)</text>
+
+  <!-- streamlit -->
+  <rect x="630" y="390" width="230" height="134" rx="8" fill="#eef6f3" stroke="#0b5c4a"/>
+  <text x="745" y="412" text-anchor="middle" font-size="12" font-weight="700" fill="#08362b">Streamlit demo (app.py)</text>
+  <text x="745" y="436" text-anchor="middle" font-size="11" fill="#333">run pipeline live</text>
+  <text x="745" y="458" text-anchor="middle" font-size="11" fill="#333">tune thresholds</text>
+  <text x="745" y="480" text-anchor="middle" font-size="11" fill="#333">explore deals · funnel</text>
+  <text x="745" y="502" text-anchor="middle" font-size="11" fill="#333">export newsletter + data</text>
+
+  <!-- arrows -->
+  <line x1="450" y1="138" x2="450" y2="158" stroke="#0b5c4a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="450" y1="212" x2="450" y2="232" stroke="#0b5c4a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="450" y1="286" x2="450" y2="306" stroke="#0b5c4a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="450" y1="368" x2="450" y2="388" stroke="#0b5c4a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="450" y1="450" x2="450" y2="470" stroke="#0b5c4a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="450" y1="524" x2="450" y2="544" stroke="#0b5c4a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="630" y1="260" x2="592" y2="260" stroke="#13775f" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="310" y1="572" x2="272" y2="540" stroke="#0b5c4a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="590" y1="498" x2="628" y2="470" stroke="#888" stroke-width="1.6" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+</svg>

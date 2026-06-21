@@ -1,0 +1,29 @@
+flowchart TD
+    subgraph SRC[Public Sources · keyless]
+        G[Google News RSS<br/>FMCG + deal queries]
+        F[Optional trade-press RSS]
+    end
+
+    G --> I[1 · INGEST<br/>pipeline/ingest.py<br/>fetch + parse RSS, recency filter]
+    F --> I
+
+    I --> C[2 · CLEAN & NORMALIZE<br/>pipeline/clean.py<br/>strip publisher, resolve domain]
+    C --> CR[Attach CREDIBILITY<br/>pipeline/credibility.py<br/>source tiers 1.0 / 0.75 / 0.5 / 0.4]
+    CR --> D[3 · DE-DUPLICATE<br/>pipeline/clean.py<br/>exact URL/title +<br/>near-dup: title-sim OR 2+ shared entities]
+
+    D --> S[4 · SCORE RELEVANCE<br/>pipeline/relevance.py<br/>deal-signal AND fmcg-signal · 0-100<br/>+ extract parties / value / category]
+    S --> FL[5 · FILTER<br/>relevance threshold +<br/>credibility floor]
+
+    FL --> N[6 · NEWSLETTER<br/>pipeline/newsletter.py<br/>ranked deals + methodology]
+
+    N --> O1[(raw_data.csv / .json)]
+    N --> O2[newsletter.docx]
+    N --> O3[newsletter.md]
+
+    FL -.-> UI[Streamlit demo · app.py<br/>live run · tune thresholds · export]
+    N -.-> UI
+
+    classDef stage fill:#0b5c4a,stroke:#063d31,color:#fff;
+    classDef io fill:#eef6f3,stroke:#0b5c4a,color:#08362b;
+    class I,C,CR,D,S,FL,N stage;
+    class O1,O2,O3,SRC,G,F,UI io;
