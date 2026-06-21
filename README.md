@@ -1,5 +1,7 @@
 # 📰 FMCG Deal Pulse
 
+[![Refresh FMCG newsletter](https://github.com/t8sharma/fmcg-deal-pulse/actions/workflows/refresh-newsletter.yml/badge.svg)](https://github.com/t8sharma/fmcg-deal-pulse/actions/workflows/refresh-newsletter.yml)
+
 **A minimal, transparent "agent" pipeline that turns public news into a concise FMCG M&A & investment newsletter — in real time, with no API keys.**
 
 It aggregates deal-related news on Fast-Moving Consumer Goods (food, beverages, personal care, household, wellness, pet care), removes duplicates and near-duplicates, filters for genuine FMCG-deal relevance, scores source credibility, and outputs a short, structured newsletter a business user can skim — plus the raw data behind it.
@@ -138,10 +140,19 @@ fmcg-deal-intel/
 ├── docs/
 │   ├── architecture.svg       # architecture diagram
 │   └── architecture.mmd       # editable Mermaid source
+├── .streamlit/config.toml     # demo theming (deep-green accent)
+├── .github/workflows/         # scheduled pipeline refresh (weekly + manual)
 ├── requirements.txt
 ├── DEPLOY.md
 └── README.md
 ```
+
+### 🔄 Automation
+A GitHub Actions workflow (`.github/workflows/refresh-newsletter.yml`) re-runs the
+pipeline **every Monday 06:00 UTC** (and on-demand via the Actions tab), regenerating
+`data/outputs/` and committing the refreshed newsletter + raw data when anything
+changes. It uses live Google News RSS with the bundled seed as an offline fallback,
+so the job never fails.
 
 ---
 

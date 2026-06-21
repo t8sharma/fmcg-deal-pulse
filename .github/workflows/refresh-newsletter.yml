@@ -1,0 +1,46 @@
+name: Refresh FMCG newsletter
+
+# Re-runs the pipeline on a schedule so the committed deliverables
+# (data/outputs/*) stay fresh, and lets you trigger it manually from the
+# Actions tab. Uses live Google News RSS; if the network/feed is unavailable
+# the pipeline falls back to the bundled seed dataset, so it never fails.
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC — a weekly deal briefing.
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}        # manual "Run workflow" button
+
+permissions:
+  contents: write              # required to commit regenerated outputs back
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline (live news, seed fallback)
+        run: python -m pipeline.run
+
+      - name: Commit refreshed outputs if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/outputs/
+          if git diff --cached --quiet; then
+            echo "No changes in data/outputs — nothing to commit."
+          else
+            git commit -m "chore: refresh FMCG newsletter outputs [skip ci]"
+            git push
+          fi

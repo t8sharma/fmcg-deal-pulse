@@ -1,0 +1,11 @@
+# Streamlit theme — matches the "FMCG Deal Pulse" newsletter accent (deep green,
+# same #0B5C4A used in the Word masthead in pipeline/newsletter.py).
+[theme]
+primaryColor = "#0B5C4A"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6F5"
+textColor = "#1A1A1A"
+font = "sans serif"
+
+[server]
+headless = true
