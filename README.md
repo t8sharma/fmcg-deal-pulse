@@ -13,7 +13,7 @@ It aggregates deal-related news on Fast-Moving Consumer Goods (food, beverages, 
 | Deliverable | Link |
 |---|---|
 | **Live demo (Streamlit)** | _add your Streamlit Cloud URL after deploy — see [DEPLOY.md](DEPLOY.md)_ |
-| **Source code (GitHub)** | _add your GitHub repo URL_ |
+| **Source code (GitHub)** | https://github.com/t8sharma/fmcg-deal-pulse |
 | **Architecture diagram** | [`docs/architecture.svg`](docs/architecture.svg) · [`docs/architecture.mmd`](docs/architecture.mmd) |
 | **Sample newsletter (Word)** | [`data/outputs/newsletter.docx`](data/outputs/newsletter.docx) |
 | **Raw data** | [`data/outputs/raw_data.csv`](data/outputs/raw_data.csv) · [`data/outputs/raw_data.json`](data/outputs/raw_data.json) |
