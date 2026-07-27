@@ -1,32 +1,107 @@
 [
   {
-    "title": "CIMB Securities keeps 'Buy' on Life Water after Hung Tai acquisition - KLSE Screener",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2Y4R3VJVml6M3pJbVNlZnBfU0VoZF9nVFRYbUdjaGtZek9CbXZyY0h3Mmo4TXRLZnVFcjBiZ2xzZkdERVV6U0EtVXg2UU52MnhqZ1lHclh1VzhxOEcwTnFlQjl4ZUZZOXA3LTJPdXdYbjNoZEM2M0R4MFJzZ3lZR0V4Qkt3dmdYUWhDUmtxbEt0ZVI2ZktycVpsOEx2SDZQaVY4VFgyanJ5bU9aNXNqNWZlVnRUNzNjTHhSS1VkTHI2Zw?oc=5",
-    "summary": "CIMB Securities keeps 'Buy' on Life Water after Hung Tai acquisition KLSE Screener",
-    "published": "2026-07-16T02:34:50+00:00",
-    "source_name": "KLSE Screener",
+    "title": "FMCG companies reap rewards from digital-first brand acquisitions as online bets drive growth - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRGIxNjIxTThxZG9KNG1YWmZfT05xVHVkSjByd2hxTHI3UWN0Wmp5QTFJQU9wZHU2a2VDU3FweEVHMEtDMnU4QzFIUHpFR1Jpamh1STAtMDd3U05GS1ZEY3pNRFBNSVFabDkwRXdMb09tdkFJU3VEMmphOFFtcXBKd0k3UHl5MGhUTVgxYzl4VVVCMEJqeTJoWXM1M3FtU21Ca2tGS3RVdFVJeVYwSXZvTjlYWlNvalU0V2JmaWc1Tkl6dENRY3B0Wk40QXE5cDJ0MmE5eUJaaUNVVW9BMGc3Z25kV1docFM2MHFpSmxDc2w5ck55Z2l1ZFp4TU9JS1RTQldNTkVn0gGLAkFVX3lxTFB6bGhZYzlOVTVVaG5MVWZkRVlvQnBtYTd1WmlNZ3lOMlYwWjNpSzBRd3JmVVc0dTgzOGM1MFlXVW1GM0lkeV9tOERqLUJ2XzZaY19ib3VsVVZVM3F5bEp4YnBVVnZFX2lCaXo2aVN1c3pzcUpBeGY4MUFndnpWdjdCOHVuazFnYjduMFJBYjVLb2RJUnR4MzRMMF9iZjQwNGU5VUZjV2VkT1YwY2ViZ2lRVTJKWm81VmxlenIxUW5ia012WHc1ODRxZFh0bkQyMGdJMzQxd242dE5UX09DTV9LVEZvM2xRMnJlSlphd0M1S2M0VjdyOGgzVHh2RUF3eVN5aGs5cTJQNzJKNA?oc=5",
+    "summary": "FMCG companies reap rewards from digital-first brand acquisitions as online bets drive growth The Economic Times",
+    "published": "2026-07-25T00:30:00+00:00",
+    "source_name": "The Economic Times",
     "query": "FMCG acquisition",
-    "title_clean": "CIMB Securities keeps 'Buy' on Life Water after Hung Tai acquisition",
-    "publisher": "KLSE Screener",
+    "title_clean": "FMCG companies reap rewards from digital-first brand acquisitions as online bets drive growth",
+    "publisher": "The Economic Times",
     "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "credibility": 1.0,
+    "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'the economic times'",
     "dup_count": 1,
     "also_reported_by": [
-      "KLSE Screener"
+      "The Economic Times"
     ],
-    "relevance_score": 16,
-    "is_relevant": false,
+    "relevance_score": 42,
+    "is_relevant": true,
     "deal_terms_hit": [
-      "acquisition"
+      "acquisition",
+      "acquisitions"
     ],
-    "fmcg_terms_hit": [],
+    "fmcg_terms_hit": [
+      "fmcg"
+    ],
     "companies_hit": [],
     "acquirer": "",
     "target": "",
     "deal_value": "",
-    "category": "Beverages",
-    "relevance_reason": "deal=3(acquisition); fmcg=0; companies=0"
+    "category": "Other / Diversified",
+    "relevance_reason": "deal=6(acquisition,acquisitions); fmcg=3; companies=0"
+  },
+  {
+    "title": "Wipro Consumer buys Philippines’ S Brands to deepen Southeast Asia bet - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQblRzMkk0cXEtYWJTdXZlN3I3RURUMHI3RkJ1UVktUlM1OGNZRlFHUDNsUjU3MGJrWkFPeVVTTkJYQV9WSkh4blZrR3ZDa1lKY2tmZnBBS2R3NjR6WUlKRHdldlhJeXRleHpwSXV6MTUzd2IzQzNub3NvRk9tTzJsWlRsS3B5ek5lZ0FPSFV4RDNha2Z6ejJEVmoxM1hHdTVoUTR4Sk5WRTZaaWxPV25GYUNGS2t3WE1Xam1vN3ZwX0VyQ091TjRfSWd1dGhpS0tLS1RVcDVsWkVkMjhHdXpGcV94YllGdnVDa0t2SHVTaTJPZzd6QTE0SmZnS1Z6dl95c2dCVWlNZkhPaUxtZEZTeVNQWndMT21l0gGeAkFVX3lxTE5CdUpQa2dVZFZrMFM1YzdwMjg1RXJLeWt1RkhVRVZCSHBGVTdJdXpNZHZPTjl6ek0zVXhSUGJSby1EYmhObjI2N3ZBUVNqbVI1VHRWdXhXUmM0dmVFVUpSTE1POEs5cEVIMU1Hb0h6X1BHTFNpMnZaZ1BVNzc0Wm8xYUFYay0xdmluZE1ia1V5Nmp6YnNXTi1FaGhRV3YxQU85a3E5UUdXdVd2ZlUzVlI2V19zaF8waGRiOENVbmJnQS1WT1JGbUs4bWRuMTlJZTdJczZJaF9GcW9waWVNODlUMWhBWDk3cl95SjBJYVdnUE1UZUw3bGszNl9hZ3B1Qmd3SVducG95NUZMTmp2d3lZWGRadWNZOTktNllySHc?oc=5",
+    "summary": "Wipro Consumer buys Philippines’ S Brands to deepen Southeast Asia bet The Economic Times",
+    "published": "2026-07-21T08:31:52+00:00",
+    "source_name": "The Economic Times",
+    "query": "FMCG acquisition",
+    "title_clean": "Wipro Consumer buys Philippines’ S Brands to deepen Southeast Asia bet",
+    "publisher": "The Economic Times",
+    "domain": "news.google.com",
+    "credibility": 1.0,
+    "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'the economic times'",
+    "dup_count": 10,
+    "also_reported_by": [
+      "Exchange4Media",
+      "Firstpost",
+      "Inquirer.net",
+      "The Economic Times",
+      "The Hindu",
+      "The Standard (HK)",
+      "The Times of India",
+      "Trend Hunter",
+      "dars.gov.et"
+    ],
+    "relevance_score": 16,
+    "is_relevant": false,
+    "deal_terms_hit": [
+      "buys"
+    ],
+    "fmcg_terms_hit": [],
+    "companies_hit": [],
+    "acquirer": "Wipro Consumer",
+    "target": "Philippines",
+    "deal_value": "",
+    "category": "Other / Diversified",
+    "relevance_reason": "deal=3(buys); fmcg=0; companies=0"
+  },
+  {
+    "title": "ITC eyes Rs 8 lakh crore FMCG opportunity by 2035, bets on AI and acquisitions - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV0hzUU53bFYzTjhZSzhGQXFVRzVPRmItUElEMkRzSzFPb1BkbEJkZVlxdXYya2sybUYybm9fQjRDVjBVcXFQLXN4bHJ4dlJtdDZEZ1J0LU5wTnZNa3pqUURhRm5xQ05NZDlBZGRoZ0diSm1Dd1l6ZWhSNzlkcW1TbVZlZ2ZSQ2Qyek9UQ1dHUFRsNnZHSV9VWmNHRUxkZ2FzcHU0OVhVV3FKMklZdmc4bFJvYnlaSFd0MURrUnpoZmwtSDI5TzdTRnJLRElnZ0VGaVNBVU42RXBCc1JFazJfUi1YT294YXJ4bGYzWmFNLWXSAfYBQVVfeXFMTmpXdjlnNlhfZ1l1QWVIRjh6Y2RQdlV6UjFpZDF5OEtNQTBtSXhKc2hlUE1OTmxRX3hoaHVHUjVDbVludXRIMUlqMkl0d0UxdGYwVzdFSTJxdXp3VWdxTjhJZVpJZ09fczlNVXRlcm8xUVBmRjJDU3UtU05XMDdMNU1nMmtlckhoRjFJcFgzdkxkNTlCenhjMldNc2EzcDY2UkFqUkd1WUFuMWF3dHpUeER5cFRJNzJRQXF2eUVlZE9XemlMak1GQjdGU3dLNVhQZjkzanlLeXlJdVRIV0ZzMFBOSVZWWENEVDhPRktxZ2ZCb2Ftejh3?oc=5",
+    "summary": "ITC eyes Rs 8 lakh crore FMCG opportunity by 2035, bets on AI and acquisitions The Economic Times",
+    "published": "2026-07-23T07:42:03+00:00",
+    "source_name": "The Economic Times",
+    "query": "FMCG acquisition",
+    "title_clean": "ITC eyes Rs 8 lakh crore FMCG opportunity by 2035, bets on AI and acquisitions",
+    "publisher": "The Economic Times",
+    "domain": "news.google.com",
+    "credibility": 1.0,
+    "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'the economic times'",
+    "dup_count": 2,
+    "also_reported_by": [
+      "ET Manufacturing",
+      "The Economic Times"
+    ],
+    "relevance_score": 48,
+    "is_relevant": true,
+    "deal_terms_hit": [
+      "acquisition",
+      "acquisitions"
+    ],
+    "fmcg_terms_hit": [
+      "fmcg"
+    ],
+    "companies_hit": [
+      "itc"
+    ],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Other / Diversified",
+    "relevance_reason": "deal=6(acquisition,acquisitions); fmcg=3; companies=1"
   },
   {
     "title": "Competition Council authorises Pavăl Holding’s acquisition of Carrefour Romania - Business Review",
@@ -56,36 +131,6 @@
     "deal_value": "",
     "category": "Other / Diversified",
     "relevance_reason": "deal=3(acquisition); fmcg=0; companies=0"
-  },
-  {
-    "title": "Why FMCG giants buy D2C brands - BusinessLine",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTJya185bldmaVNQWkNldVdVdlVqd1hoYjZIdUlyaS1nR055dU5TRVY0TTVqRGZ3VU0wUVBhTXRWZDRIam1jTjVDOGV2bVZRLTR1cnMzMzl0M2NzWnd2TU5XR3ZEV1Nabi1SZ1BBSHljeTBzWlhMLVFBT0FuV1ZKOTQwanNoR1AtY2lGSTc2Z19XRDVreEx0VmxBNXFuQ2d6UFJNODVoZEE0a2JVWjUxd9IBtwFBVV95cUxOYWZ3LUR6ZVRnQ3ZKNGdLVDR5Y0I2ZVZLVTZDVU92Znp6aFNMeTZaaDZfWElhZXpEOE9tYlo1SEhTNFpIbzFVelBjOEdEa2xCbmpCXzlHV1JOUlVtTHRTRDA3cmFrNWxvQi1INmMxVHY3RmpreTdMSTJTRHpyOXVSWkVHTGR1dzBwMXZvc1hKbzZjeUdEcUM2bG9NMEZvVkpCLUluRGtyMDJjR2wtQXBMTUtWbUk5Yzg?oc=5",
-    "summary": "Why FMCG giants buy D2C brands BusinessLine",
-    "published": "2026-06-22T07:00:00+00:00",
-    "source_name": "BusinessLine",
-    "query": "FMCG acquisition",
-    "title_clean": "Why FMCG giants buy D2C brands",
-    "publisher": "BusinessLine",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
-    "also_reported_by": [
-      "BusinessLine"
-    ],
-    "relevance_score": 16,
-    "is_relevant": false,
-    "deal_terms_hit": [],
-    "fmcg_terms_hit": [
-      "fmcg",
-      "d2c"
-    ],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Other / Diversified",
-    "relevance_reason": "deal=0(-); fmcg=5; companies=0"
   },
   {
     "title": "Danone to tap protein demand in Asia by buying Australia's Made - Reuters",
@@ -118,6 +163,98 @@
     "relevance_reason": "deal=0(-); fmcg=0; companies=1"
   },
   {
+    "title": "Why FMCG giants buy D2C brands - BusinessLine",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTJya185bldmaVNQWkNldVdVdlVqd1hoYjZIdUlyaS1nR055dU5TRVY0TTVqRGZ3VU0wUVBhTXRWZDRIam1jTjVDOGV2bVZRLTR1cnMzMzl0M2NzWnd2TU5XR3ZEV1Nabi1SZ1BBSHljeTBzWlhMLVFBT0FuV1ZKOTQwanNoR1AtY2lGSTc2Z19XRDVreEx0VmxBNXFuQ2d6UFJNODVoZEE0a2JVWjUxd9IBtwFBVV95cUxOYWZ3LUR6ZVRnQ3ZKNGdLVDR5Y0I2ZVZLVTZDVU92Znp6aFNMeTZaaDZfWElhZXpEOE9tYlo1SEhTNFpIbzFVelBjOEdEa2xCbmpCXzlHV1JOUlVtTHRTRDA3cmFrNWxvQi1INmMxVHY3RmpreTdMSTJTRHpyOXVSWkVHTGR1dzBwMXZvc1hKbzZjeUdEcUM2bG9NMEZvVkpCLUluRGtyMDJjR2wtQXBMTUtWbUk5Yzg?oc=5",
+    "summary": "Why FMCG giants buy D2C brands BusinessLine",
+    "published": "2026-06-22T07:00:00+00:00",
+    "source_name": "BusinessLine",
+    "query": "FMCG acquisition",
+    "title_clean": "Why FMCG giants buy D2C brands",
+    "publisher": "BusinessLine",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "BusinessLine"
+    ],
+    "relevance_score": 16,
+    "is_relevant": false,
+    "deal_terms_hit": [],
+    "fmcg_terms_hit": [
+      "fmcg",
+      "d2c"
+    ],
+    "companies_hit": [],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Other / Diversified",
+    "relevance_reason": "deal=0(-); fmcg=5; companies=0"
+  },
+  {
+    "title": "CIMB Securities keeps 'Buy' on Life Water after Hung Tai acquisition - KLSE Screener",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2Y4R3VJVml6M3pJbVNlZnBfU0VoZF9nVFRYbUdjaGtZek9CbXZyY0h3Mmo4TXRLZnVFcjBiZ2xzZkdERVV6U0EtVXg2UU52MnhqZ1lHclh1VzhxOEcwTnFlQjl4ZUZZOXA3LTJPdXdYbjNoZEM2M0R4MFJzZ3lZR0V4Qkt3dmdYUWhDUmtxbEt0ZVI2ZktycVpsOEx2SDZQaVY4VFgyanJ5bU9aNXNqNWZlVnRUNzNjTHhSS1VkTHI2Zw?oc=5",
+    "summary": "CIMB Securities keeps 'Buy' on Life Water after Hung Tai acquisition KLSE Screener",
+    "published": "2026-07-16T02:34:50+00:00",
+    "source_name": "KLSE Screener",
+    "query": "FMCG acquisition",
+    "title_clean": "CIMB Securities keeps 'Buy' on Life Water after Hung Tai acquisition",
+    "publisher": "KLSE Screener",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "KLSE Screener"
+    ],
+    "relevance_score": 16,
+    "is_relevant": false,
+    "deal_terms_hit": [
+      "acquisition"
+    ],
+    "fmcg_terms_hit": [],
+    "companies_hit": [],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Beverages",
+    "relevance_reason": "deal=3(acquisition); fmcg=0; companies=0"
+  },
+  {
+    "title": "Beauty becomes the crown jewel of D2C deals as FMCG giants chase premium growth - BusinessLine",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdE1UcW1wdEVJd1YxYldtZ2FoUVExQWdBZkNqUkVRUHM0QjdldW94bTJSYXNrckczZlY2aEdmRUpjeHFNeklJYmdVcEhxMlVLWjNxdUxheTlQWU9VMmx3ZHFLUURvOXJWaXByZFFjaDdlZXBGV3N0TmFZc1Z1T2lXNHprRU05RFNqTEZ5TFRGb014V2VzTG1yZ25WUFV1VzFjZ1hMa1ludkZTb2p6TkdfU3FoVTZhWWFsaktqMlZERTdaRjJ2MWtrZEFxdjdsVlBBMmlKa0ZGQzc1WEh3em1R0gHmAUFVX3lxTE54OVJpM0FtT1hkUDhwX25PaFZwQU13b1BUUFJXRXl4LWFHbzFraFVodTY1R01LRExYWXNtODdhdnlxSzlIOUg5TE5oVmE4Y3NQY3VKVG9pUkpEcWNyekowaHNWYU5zSm9xX0JOQVhtbHVJUkxpdVpVLUcyXzR2S3NkMmpYVTYyQmtpN2FfaEhvV2ZpRVdCTm9tMXh6bWhvUVhMUldnY3pWSklIRF81a013RnRSLXMtcWRmdnlqbXd6cVY4NF9ibUNhYlg2ck1Fd0pCWkZIQl81U3JaNHRFRV9xTHF5WE53?oc=5",
+    "summary": "Beauty becomes the crown jewel of D2C deals as FMCG giants chase premium growth BusinessLine",
+    "published": "2026-06-19T07:00:00+00:00",
+    "source_name": "BusinessLine",
+    "query": "FMCG acquisition",
+    "title_clean": "Beauty becomes the crown jewel of D2C deals as FMCG giants chase premium growth",
+    "publisher": "BusinessLine",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "BusinessLine"
+    ],
+    "relevance_score": 28,
+    "is_relevant": false,
+    "deal_terms_hit": [
+      "deal"
+    ],
+    "fmcg_terms_hit": [
+      "fmcg",
+      "beauty",
+      "d2c"
+    ],
+    "companies_hit": [],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Beauty & Personal Care",
+    "relevance_reason": "deal=1(deal); fmcg=7; companies=0"
+  },
+  {
     "title": "Why India's FMCG Majors Are Buying Their Way Into Nutraceuticals - thecore.in",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWVFcGRjVUlMTS1Rb2R3N2lnR0Vzb3VXUGVLWUh2emotVHNPV1BBSGxZcUdSV3hmb29SLUxWdXR1QmpTcVZiaEpXWWVST2JRdExPODdnLXkySEUwSGVVei00VlI2bURPX2FnQzBvaVRDckxLekxXclQ1bzhZbTVqdi1YZmw3YjJ5bVYzZkQ1ZVg3bDY4TmZkeDh3?oc=5",
     "summary": "Why India's FMCG Majors Are Buying Their Way Into Nutraceuticals thecore.in",
@@ -148,178 +285,81 @@
     "relevance_reason": "deal=0(-); fmcg=5; companies=0"
   },
   {
-    "title": "Beauty boom to fuel more dealmaking as FMCG giants chase premium brands - Moneycontrol.com",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOGxIYjFIRE5pS2g3YzNiZXI4TlVnZ0FuMkRMalhucEhxRzZGQnpmRnFlWExCY3RyRlkxOXk0SG40SUxCUEY3OHRLOC1STmRVR0VWbE9qMFBCVTlLSHZSbnliVmhUUEtNZlFmaGx6TUpzajJfVnhhcXVWRklDaFc0TXhtOFQ5MDNUNTJvczNzMXJzU3lUQkpVenJBYV85N2dEN1ZEdXFDdFZ0REdwQ0hIX3IyREhfc3ZXSGdHN0padDVkazlVT0hLaXd3Tl9fVHdrbW1pMNIB2gFBVV95cUxPRXZaTkFyMlN5RkJYcDkxZzdJYTF0ZEwwbHRiU003Wkxra0lvalJRUkZMVXpYU1dKYlM0X2lZckhLajVSTDN0UU9tZEpmMndaOFFDN1FPY1JxbGtBRV9KZHAtVDgzTjRJWEw5RlRSWEpWVlgxVV9EY2ctRWx3T0t3VmMtWlpIMGZrM1luQjY0YUk5d3FzaldXdDVSX0xDNHFHTGgyRlhrTExwbHNmb3k5VGVENUdkT1JKLThYaEpZazkwY0E1LXlzOWNudFkwaWt6QXpPdE5qZW1YUQ?oc=5",
-    "summary": "Beauty boom to fuel more dealmaking as FMCG giants chase premium brands Moneycontrol.com",
-    "published": "2026-06-09T07:00:00+00:00",
-    "source_name": "Moneycontrol.com",
+    "title": "Waka Waka! Indian consumer giants seek to roar louder in Africa - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxONi1mdjBRUnY2dzdwN1RjZ3k2a2cwaHBrTXZIQnNPQ2N3SGFEZzBSMmo0VS1aUHhRR00wbkd3OUU2R1dtNURmQkEzd2pTcUtvVmJjUlFNdzdCUHRSUTBPbDNMZWlYMlJBX3ZWV2hEelN4bzRPdktnbk1RNmh2X21pTldrYWN4blMtQWhJNmZkMWpCMmJfcTlrb2tGQ0VxWlVycWF0N2lvZ3ZhMTFYS1R6T0FZZVhRNjdIUUFRX2p2dGxHRHdyMEh1NXNRWE16c0lUbEhDcHFEOE1CY2k2Q04xVXc4dGc3NG5HSmFpeGNXZ29wMHVKZ1drQkEzN3hvZTRhS0dZTS1jck0yRURTU3I5THRxUUs5ZnRVZWRBcFhVVWpId25qVEdr0gGsAkFVX3lxTE9xQXd2dWY1aFlKQ1Z6Z2ozUklUN1hrdmRMbXZKN1BrYVRheWo4OXpqTnpkOVloZzRyU2I1cHExdXRHRUVSRHROQVRoRl9EcFo3bE5NNm0yazE5ZHZwUVlIVjVST0t0ZHhPdDU2UE9hUW9YamMxRTY5elJZUklKQVFPeVVYdVM2Y2JsTDBRQWRGX0plcFBFZE5WSGMyZXVEcnBZY2xBMXpuMm1abllfdnJjekJjTGFlWUgwTWY3UU5BVTdyRlVYWktFN29HQWNpdlk3WDJLMXAzQmxuMzcxN29QWWFMbUo1SXZuVFVUakVxaEdhNHVDU2pSa29VdUxUczVEUmFraXFOaUtNZ0RMa01NLVlRQWRFQ0FqVGtJY0Fwb2dHbTFEMl9sVEFqVg?oc=5",
+    "summary": "Waka Waka! Indian consumer giants seek to roar louder in Africa The Economic Times",
+    "published": "2026-06-25T07:00:00+00:00",
+    "source_name": "The Economic Times",
     "query": "FMCG acquisition",
-    "title_clean": "Beauty boom to fuel more dealmaking as FMCG giants chase premium brands",
-    "publisher": "Moneycontrol.com",
+    "title_clean": "Waka Waka! Indian consumer giants seek to roar louder in Africa",
+    "publisher": "The Economic Times",
     "domain": "news.google.com",
     "credibility": 1.0,
-    "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'moneycontrol.com'",
-    "dup_count": 6,
-    "also_reported_by": [
-      "Entrepreneur India",
-      "Inc42",
-      "Moneycontrol.com",
-      "citybiz",
-      "dars.gov.et",
-      "essence.com"
-    ],
-    "relevance_score": 22,
-    "is_relevant": false,
-    "deal_terms_hit": [
-      "deal"
-    ],
-    "fmcg_terms_hit": [
-      "fmcg",
-      "beauty"
-    ],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Beauty & Personal Care",
-    "relevance_reason": "deal=1(deal); fmcg=5; companies=0"
-  },
-  {
-    "title": "ITC’s digital first brand bets cross Rs 1,350 crore ARR in FY26 - Indian Television Dot Com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdGw2VkRybTVrNi1qRHBZMjJIZzk5eWV4WjJYYldwN1BRci1tMThMQ09zSGtvWXdWT0xKTVlaNkx2aEsxREJ3alFNekdRelh3cjRsR0ZfVld0ZmpiN0JVR3BNNlpkOWk2ODJSV0FZSDBlZjdEem1oYnY5WFAzdWhoQnNqLXZfdHVTcms3LW1NdnB3NTFReUdrb0ZqcUdpYVBuN0E?oc=5",
-    "summary": "ITC’s digital first brand bets cross Rs 1,350 crore ARR in FY26 Indian Television Dot Com",
-    "published": "2026-06-27T07:00:00+00:00",
-    "source_name": "Indian Television Dot Com",
-    "query": "FMCG acquisition",
-    "title_clean": "ITC’s digital first brand bets cross Rs 1,350 crore ARR in FY26",
-    "publisher": "Indian Television Dot Com",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'the economic times'",
     "dup_count": 1,
     "also_reported_by": [
-      "Indian Television Dot Com"
+      "The Economic Times"
     ],
-    "relevance_score": 6,
+    "relevance_score": 0,
     "is_relevant": false,
     "deal_terms_hit": [],
     "fmcg_terms_hit": [],
-    "companies_hit": [
-      "itc"
-    ],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "rs 1,350 crore",
-    "category": "Other / Diversified",
-    "relevance_reason": "deal=0(-); fmcg=0; companies=1"
-  },
-  {
-    "title": "Sigma Healthcare eyes $14bn acquisition of UK’s Boots - Inside FMCG",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDl4TXZwV01ZanAwMFBkVi1DVzRXT1U3dTN0X243RHRGSjNSNk82Wm9lcnJCbEtqR3hNZC1DZzBwLUxDR0lPemROTzN3d1pLb29ybmE0Zi1EWHZ0VkVtNXBnYnlBNTh2Tm9uQURkV2FjZVU4ZUc5eDA5RTE1dmM4ZXRDX0dzOFcxbldqNDJBcGE2NW8?oc=5",
-    "summary": "Sigma Healthcare eyes $14bn acquisition of UK’s Boots Inside FMCG",
-    "published": "2026-06-10T07:00:00+00:00",
-    "source_name": "Inside FMCG",
-    "query": "FMCG acquisition",
-    "title_clean": "Sigma Healthcare eyes $14bn acquisition of UK’s Boots",
-    "publisher": "Inside FMCG",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
-    "also_reported_by": [
-      "Inside FMCG"
-    ],
-    "relevance_score": 26,
-    "is_relevant": false,
-    "deal_terms_hit": [
-      "acquisition"
-    ],
-    "fmcg_terms_hit": [
-      "fmcg"
-    ],
     "companies_hit": [],
     "acquirer": "",
     "target": "",
-    "deal_value": "$14bn",
-    "category": "Other / Diversified",
-    "relevance_reason": "deal=3(acquisition); fmcg=3; companies=0"
-  },
-  {
-    "title": "Emami increases stake in IncNut Digital to 60% - bestmediainfo.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0pvWms0bFhvLTBzemV6dVJ0T2RDeExwekJsSVozck1qS042blBFY29NZ2tQdkxITGZ3ZlhvaFB0UUc4NFJwMWxXTWs1S0s0Vk1iX19CeWhvckNkRHgzaDhsd2lJNG9wU0luTHQ5OFdnWFlEd3NJMmhiUzNxMkZ6X05uM1hRckV6U1lhbDUxMXBlYW01RUMtRlNXbHJVbWhlTUQ5bkdfYlhMZU82ZS130gGvAUFVX3lxTE4zSm9aazRsWG8tMHN6ZXp1UnRPZEN4THB6QmxJWjNyTWpLTjZuUEVjb01na1B2TEhMZndmWG9oUHRRRzg0UnAxbFdNazVLSzRWTWJfX0J5aG9yQ2REeDNoOGx3aUk0b3BTSW5MdDk4V2dYWUR3c0kyaGJTM3EyRnpfTm4zWFFyRXpTWWFsNTExcGVhbTVFQy1GU1dsclVtaGVNRDluR19iWExlTzZlLXc?oc=5",
-    "summary": "Emami increases stake in IncNut Digital to 60% bestmediainfo.com",
-    "published": "2026-06-12T07:00:00+00:00",
-    "source_name": "bestmediainfo.com",
-    "query": "FMCG acquisition",
-    "title_clean": "Emami increases stake in IncNut Digital to 60%",
-    "publisher": "bestmediainfo.com",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
-    "also_reported_by": [
-      "bestmediainfo.com"
-    ],
-    "relevance_score": 17,
-    "is_relevant": true,
-    "deal_terms_hit": [
-      "stake in"
-    ],
-    "fmcg_terms_hit": [],
-    "companies_hit": [
-      "emami"
-    ],
-    "acquirer": "Emami",
-    "target": "IncNut Digital",
     "deal_value": "",
     "category": "Other / Diversified",
-    "relevance_reason": "deal=2(stake in); fmcg=0; companies=1"
+    "relevance_reason": "deal=0(-); fmcg=0; companies=0"
   },
   {
-    "title": "Engine, Nuqleous complete merger - Talk Business & Politics",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RcF85dThjUzR5OEszRDJoVDd2dzRzQXRXbGhDRmlXandpMVliNHExaVFjR1NSSFp0TEJaTDZzY3FrN2x6SVk0TDMwVzNPV0hzaXI3WVg5Rzc1MDcwVHZoQmlyT0RXeVJsSEdYenZNbG9Ydnc?oc=5",
-    "summary": "Engine, Nuqleous complete merger Talk Business & Politics",
-    "published": "2026-06-08T07:00:00+00:00",
-    "source_name": "Talk Business & Politics",
-    "query": "consumer packaged goods acquisition",
-    "title_clean": "Engine, Nuqleous complete merger",
-    "publisher": "Talk Business & Politics",
+    "title": "Unilever-McCormick merger: Anti-trust consultation begins - FoodNavigator.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUNMdld0VlFRSnAyZnE5bXVvWUJuWEVfR0FzTElqVlNTcFoySmtrV1gzVE8zOU9EdFByTWJOemVFQUxkZDZXN01kenl2a0d2dWJnS0tEbVQ3SGdudUhHdFNwekwyYmxGSE5Zb1ByRXZGbll6NmdHN0NNaXNSN1gwRUJJc25vUUNYZm5ONTNLbTlzNHR4eHBoTnFEalRiYjQyN1lLNEwwa0hsQQ?oc=5",
+    "summary": "Unilever-McCormick merger: Anti-trust consultation begins FoodNavigator.com",
+    "published": "2026-07-22T17:22:24+00:00",
+    "source_name": "FoodNavigator.com",
+    "query": "FMCG merger",
+    "title_clean": "Unilever-McCormick merger: Anti-trust consultation begins",
+    "publisher": "FoodNavigator.com",
     "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "credibility": 0.75,
+    "credibility_reason": "Tier 2 (trade press): publisher 'foodnavigator.com'",
     "dup_count": 1,
     "also_reported_by": [
-      "Talk Business & Politics"
+      "FoodNavigator.com"
     ],
-    "relevance_score": 27,
-    "is_relevant": false,
+    "relevance_score": 37,
+    "is_relevant": true,
     "deal_terms_hit": [
       "merger",
       "merge"
     ],
-    "fmcg_terms_hit": [],
-    "companies_hit": [],
+    "fmcg_terms_hit": [
+      "food"
+    ],
+    "companies_hit": [
+      "unilever"
+    ],
     "acquirer": "",
     "target": "",
     "deal_value": "",
-    "category": "Other / Diversified",
-    "relevance_reason": "deal=5(merger,merge); fmcg=0; companies=0"
+    "category": "Food",
+    "relevance_reason": "deal=5(merger,merge); fmcg=1; companies=1"
   },
   {
-    "title": "Beyond Sales Lift: How Rewards Build Valuable Customers - Bain & Company",
+    "title": "Beyond Sales Lift: How Rewards Build Valuable Customers - Bain",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjdoNFhkNEg0QnNVeEdIQTQ2YUt0NDZYQlBnT0dtcG9kc3Z6VFpPbE5kcHBZZGxPZ3MybTlTblE2Y2ItRUxLR25pTFJuUVJvRnowQzcxUFV2cExfYUxMc1IwTTA5cWNWTWRDMGtvbzZsLUdoaWtlbnBDWmItR2lwTjhGNUNHeTlqVGJEeTln?oc=5",
-    "summary": "Beyond Sales Lift: How Rewards Build Valuable Customers Bain & Company",
+    "summary": "Beyond Sales Lift: How Rewards Build Valuable Customers Bain",
     "published": "2026-06-18T07:00:00+00:00",
-    "source_name": "Bain & Company",
+    "source_name": "Bain",
     "query": "consumer packaged goods acquisition",
     "title_clean": "Beyond Sales Lift: How Rewards Build Valuable Customers",
-    "publisher": "Bain & Company",
+    "publisher": "Bain",
     "domain": "news.google.com",
     "credibility": 0.75,
-    "credibility_reason": "Tier 2 (trade press): publisher 'bain & company'",
+    "credibility_reason": "Tier 2 (trade press): publisher 'bain'",
     "dup_count": 1,
     "also_reported_by": [
-      "Bain & Company"
+      "Bain"
     ],
     "relevance_score": 0,
     "is_relevant": false,
@@ -389,35 +429,6 @@
     "deal_value": "",
     "category": "Other / Diversified",
     "relevance_reason": "deal=0(-); fmcg=0; companies=0"
-  },
-  {
-    "title": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZkN2c0YxYk11TzhwaTM3bXd1R0tZYXE5aVl3S3M4XzQ1S0sydWIxbldURUVUUkpRZHVKNkx6eWlod3h1X0ViZ2VHQ0hzY2t0SHBaZFJEbnlheFJtUGh5TmZONWhBWFh5ZUJWVlczWWZYNjNFamFhYmlvcEE3UFJxXzhSNmsza2JRN29PN3lpU0FfSUJf0gGaAUFVX3lxTE9qZVpCNU44SHdhNTVTSzNnRGl0bUhXeXhDcDZZOWdRS0p0VXpjV1BPTXdjS0lUd0t0WUs3WldZeGZXci1hNDE2dHRDNUlNQVJTdWFVUTJacXk4U0pIRGlOZHZwb2NkSUt3MzB0Z0dSMmFWMlNXeDBFNW5qT09kZUFmdTF0NEI0VWlvejd0QW53MW8ycFpzd2RvSEE?oc=5",
-    "summary": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant CNBC",
-    "published": "2026-06-07T07:00:00+00:00",
-    "source_name": "CNBC",
-    "query": "consumer packaged goods acquisition",
-    "title_clean": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant",
-    "publisher": "CNBC",
-    "domain": "news.google.com",
-    "credibility": 1.0,
-    "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'cnbc'",
-    "dup_count": 1,
-    "also_reported_by": [
-      "CNBC"
-    ],
-    "relevance_score": 10,
-    "is_relevant": false,
-    "deal_terms_hit": [],
-    "fmcg_terms_hit": [
-      "cpg"
-    ],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Other / Diversified",
-    "relevance_reason": "deal=0(-); fmcg=3; companies=0"
   },
   {
     "title": "Global M&A trends in consumer markets: 2026 mid-year outlook - PwC",
@@ -491,10 +502,9 @@
     "domain": "news.google.com",
     "credibility": 0.4,
     "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 2,
+    "dup_count": 1,
     "also_reported_by": [
-      "CLH News",
-      "Whalesbook"
+      "CLH News"
     ],
     "relevance_score": 9,
     "is_relevant": false,
@@ -510,6 +520,36 @@
     "deal_value": "",
     "category": "Food",
     "relevance_reason": "deal=1(deal); fmcg=1; companies=0"
+  },
+  {
+    "title": "Food and beverage companies owned by private equity funds (PEFs) are trying to boost corporate value.. - 매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ydDNzdE9pMkVHWURocTBJVDV2dFVtUXUyWllqMnJoWU1IMnhoaWRUS2l2dWJaRUx1alhObzVTYXN3LVhsc0tZRlB1ZHZ0RnpxSVE?oc=5",
+    "summary": "Food and beverage companies owned by private equity funds (PEFs) are trying to boost corporate value.. 매일경제",
+    "published": "2026-07-25T13:20:48+00:00",
+    "source_name": "매일경제",
+    "query": "food beverage company acquires",
+    "title_clean": "Food and beverage companies owned by private equity funds (PEFs) are trying to boost corporate value..",
+    "publisher": "매일경제",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "매일경제"
+    ],
+    "relevance_score": 10,
+    "is_relevant": false,
+    "deal_terms_hit": [],
+    "fmcg_terms_hit": [
+      "food",
+      "beverage"
+    ],
+    "companies_hit": [],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Food",
+    "relevance_reason": "deal=0(-); fmcg=3; companies=0"
   },
   {
     "title": "FlavorSum acquires Beverage Flavors International - Food Business News",
@@ -576,6 +616,136 @@
     "relevance_reason": "deal=3(buys); fmcg=2; companies=0"
   },
   {
+    "title": "Varun Beverages buys Devyani Foods Kenya's dairy, juice and water business for Rs 305 crore - Storyboard18",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblJ0a2plNWt0RTlRc1BHV3pmeG8xamlUd1RHcWlvQlN3dy1xLUlmV2xJc0lfend1am93cE1pTEJ4SkFzZnBFUjZ4UEF0MHA1SXVUd2tYcDBTZlRIZGFUVTFtUm14Q3ZnTlhPcy12TlNjSXFvQllIM19yT25oZjR6Q2Y3Mk9iMl93T3I0QjFzQW4yQVRpRDBfY3VXYUxjelVuN2pHdTlFVW9YMWxTZ2FzTXU2dXlxQWRsOVdN0gHAAUFVX3lxTE1MUlhiaEhhNExRcGx0M2ZYVjFGdU1Ld1RZMkstQV9FRG9qTTdnMmlVN2RZSGFCUHhTemh0WnlwQXJjYzVxampJaVUzcFJTRzkyTG1Yd19XTmtDakEyYlNOUTlZUlNlRFZxQkgtNlkxbmVQLTU4SVppTy1GTUdZYnZ5bnhIc1k3R2JacHZCNEtZN05wQ0xBV3dkcUFmS0hNTVp0Y2ZsN0h4WUs2aDZNbDliZWJNZVYwRUJWaE96UU1tZQ?oc=5",
+    "summary": "Varun Beverages buys Devyani Foods Kenya's dairy, juice and water business for Rs 305 crore Storyboard18",
+    "published": "2026-07-06T07:00:00+00:00",
+    "source_name": "Storyboard18",
+    "query": "food beverage company acquires",
+    "title_clean": "Varun Beverages buys Devyani Foods Kenya's dairy, juice and water business for Rs 305 crore",
+    "publisher": "Storyboard18",
+    "domain": "news.google.com",
+    "credibility": 0.75,
+    "credibility_reason": "Tier 2 (trade press): publisher 'storyboard18'",
+    "dup_count": 1,
+    "also_reported_by": [
+      "Storyboard18"
+    ],
+    "relevance_score": 45,
+    "is_relevant": true,
+    "deal_terms_hit": [
+      "buys"
+    ],
+    "fmcg_terms_hit": [
+      "food",
+      "beverage",
+      "beverages",
+      "dairy"
+    ],
+    "companies_hit": [
+      "varun beverages"
+    ],
+    "acquirer": "Varun Beverages",
+    "target": "Devyani Foods Kenya's",
+    "deal_value": "rs 305 crore",
+    "category": "Food",
+    "relevance_reason": "deal=3(buys); fmcg=7; companies=1"
+  },
+  {
+    "title": "Beauty, personal care firms expand portfolios with acquisitions, new products - Interaksyon",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVU9IdU1IOU5wWndNcUgzbkJiZG5JMktYajN5aUdiSnJNVjJHaHQtSTJjX3FUdXJJekdLUlBmZE50U01GeHVSQVBEZ05WS0d5SU9TemVFOFNqRzU1Mk5RTFB2eE5ZV1pjX04wXzEyWDNlTXNUaURtMTZmSG9kSFdybjg1UU5fZ2ROYjloQno4clVYUHQ1VVFsNEJOaHV1c0E1aGVWVWsxWjJ0dFI4VThUOTdieUU5RlZaVlZPNGVzQWlNSl9Nd1JoM1Y1WUVCSHRxV0Q3UlZKY1pkLUVTNGc?oc=5",
+    "summary": "Beauty, personal care firms expand portfolios with acquisitions, new products Interaksyon",
+    "published": "2026-07-27T00:00:50+00:00",
+    "source_name": "Interaksyon",
+    "query": "personal care brand acquisition",
+    "title_clean": "Beauty, personal care firms expand portfolios with acquisitions, new products",
+    "publisher": "Interaksyon",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "Interaksyon"
+    ],
+    "relevance_score": 48,
+    "is_relevant": true,
+    "deal_terms_hit": [
+      "acquisition",
+      "acquisitions"
+    ],
+    "fmcg_terms_hit": [
+      "personal care",
+      "beauty"
+    ],
+    "companies_hit": [],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Beauty & Personal Care",
+    "relevance_reason": "deal=6(acquisition,acquisitions); fmcg=5; companies=0"
+  },
+  {
+    "title": "Deals tracker: Cross Country Healthcare acquired by Knox Lane - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzY1UHNsbGNQYUdTQjRCWG9XenhLWU43NTl0VGxJbnYtSkhKRzFEcVhsUVpaRWdtQzEyRUdfcUFZSDY1b3ZBVE5xckpsTG1rTDFGekN4MWgxRWxWWnNyUk11N3NWcmQ0TUltSUpob05TZGotMkxrVmhKYVpBeGxSb3lVVFRFQlM4RHRPd0Znbw?oc=5",
+    "summary": "Deals tracker: Cross Country Healthcare acquired by Knox Lane Modern Healthcare",
+    "published": "2026-07-21T18:37:00+00:00",
+    "source_name": "Modern Healthcare",
+    "query": "personal care brand acquisition",
+    "title_clean": "Deals tracker: Cross Country Healthcare acquired by Knox Lane",
+    "publisher": "Modern Healthcare",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "Modern Healthcare"
+    ],
+    "relevance_score": 38,
+    "is_relevant": false,
+    "deal_terms_hit": [
+      "acquire",
+      "acquired",
+      "deal"
+    ],
+    "fmcg_terms_hit": [],
+    "companies_hit": [],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Other / Diversified",
+    "relevance_reason": "deal=7(acquire,acquired,deal); fmcg=0; companies=0"
+  },
+  {
+    "title": "Sharon Personal Care Officially Becomes Eternis Personal Care - Cosmetics Business",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3NFM0xLa3pWZFlWbnNkTkZUVXhSMXA4YkJCVWZBbVphMThhb2Z3dTFRQUU4Wmx0NVlSMWYzaENyUVNfYnpfOUhPdkh2S1JtZVJxQmhibm8ybklVTFdOaDZtVFdIaGJKOUNkNnhfMkRrN0JEWWVZNk40R0o4WE81Y0c1bjh6S3UyWTZQUWFvVG80UWVzZXc?oc=5",
+    "summary": "Sharon Personal Care Officially Becomes Eternis Personal Care Cosmetics Business",
+    "published": "2026-07-07T07:00:00+00:00",
+    "source_name": "Cosmetics Business",
+    "query": "personal care brand acquisition",
+    "title_clean": "Sharon Personal Care Officially Becomes Eternis Personal Care",
+    "publisher": "Cosmetics Business",
+    "domain": "news.google.com",
+    "credibility": 0.75,
+    "credibility_reason": "Tier 2 (trade press): publisher 'cosmetics business'",
+    "dup_count": 1,
+    "also_reported_by": [
+      "Cosmetics Business"
+    ],
+    "relevance_score": 16,
+    "is_relevant": false,
+    "deal_terms_hit": [],
+    "fmcg_terms_hit": [
+      "personal care",
+      "cosmetics"
+    ],
+    "companies_hit": [],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Beauty & Personal Care",
+    "relevance_reason": "deal=0(-); fmcg=5; companies=0"
+  },
+  {
     "title": "From Acquisitions to Openings, the Latest in India’s Booming Beauty Business - WWD",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbE5xbF9id0ZIbnhWNEEtc3BxZTA5T3dNLVo2NWVucEFsUmQ3akQxSGI2RnZPR1FReG1wR1pjdFZ2Wko1VmtzenJFdkJzWGJKZ1NKQ096RHZXSFNwZ1RmYUdLSGQyTlhySTdCZWV2dE1LcVZuUVp4dm1EbXZOVzB3cGdGN3pRMHFFNXlGMndQWkVVLWhqYlMyUHJ6VVZCMmZfWTlvcnl5MklGTXNDejdVNHhvMjBLVXY4T05Ld0tleEpKYnI0VWNXMHh5WQ?oc=5",
     "summary": "From Acquisitions to Openings, the Latest in India’s Booming Beauty Business WWD",
@@ -587,9 +757,8 @@
     "domain": "news.google.com",
     "credibility": 0.75,
     "credibility_reason": "Tier 2 (trade press): publisher 'wwd'",
-    "dup_count": 2,
+    "dup_count": 1,
     "also_reported_by": [
-      "Trend Hunter",
       "WWD"
     ],
     "relevance_score": 39,
@@ -609,36 +778,38 @@
     "relevance_reason": "deal=6(acquisition,acquisitions); fmcg=2; companies=0"
   },
   {
-    "title": "Berlin Packaging expands in pharmaceutical, beauty markets with acquisitions in US, UK - Plastics News",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2tuQk1qWERNaV91Z3M0WEt5d1BQX3pudW8tR1RFMXdCSTdvZlN1RkpmRmdVMXB6NWJkVWcwelhucmZqRkNtV0NEVFRRSUJHRTRLZTJ5alhvcDY4TXlmd25LUTZTbzhCdFEyM1JmeWhxWUhoRnJZcDZRNDRnSmlmWENid1RwX3hw?oc=5",
-    "summary": "Berlin Packaging expands in pharmaceutical, beauty markets with acquisitions in US, UK Plastics News",
-    "published": "2026-06-10T07:00:00+00:00",
-    "source_name": "Plastics News",
+    "title": "Wrinkles Schminkles joins Avenir Collective as first beauty acquisition - Cosmetics Business",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUV9rTEVBYzRObG5aaWphRTNYOFQxU3U3bWltLWVuTkVOdGdRY0pzQWdQa1dfRmszY0FBVmJsZW1aVk5VMDNnWF9iN1liSXkyYnF3eDd6R1NJa2htelVkZ2VVMW0zLXhweHgta2VFSGpPUFVCT2ItUWQxenRLTGZZRVFmMjB1dnJ0aFk2ang1R2VzOHc?oc=5",
+    "summary": "Wrinkles Schminkles joins Avenir Collective as first beauty acquisition Cosmetics Business",
+    "published": "2026-06-30T07:00:00+00:00",
+    "source_name": "Cosmetics Business",
     "query": "personal care brand acquisition",
-    "title_clean": "Berlin Packaging expands in pharmaceutical, beauty markets with acquisitions in US, UK",
-    "publisher": "Plastics News",
+    "title_clean": "Wrinkles Schminkles joins Avenir Collective as first beauty acquisition",
+    "publisher": "Cosmetics Business",
     "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
+    "credibility": 0.75,
+    "credibility_reason": "Tier 2 (trade press): publisher 'cosmetics business'",
+    "dup_count": 3,
     "also_reported_by": [
-      "Plastics News"
+      "Beauty Independent",
+      "Cosmetics Business",
+      "Retail Beauty"
     ],
-    "relevance_score": 39,
-    "is_relevant": true,
+    "relevance_score": 29,
+    "is_relevant": false,
     "deal_terms_hit": [
-      "acquisition",
-      "acquisitions"
+      "acquisition"
     ],
     "fmcg_terms_hit": [
-      "beauty"
+      "beauty",
+      "cosmetics"
     ],
     "companies_hit": [],
     "acquirer": "",
     "target": "",
     "deal_value": "",
     "category": "Beauty & Personal Care",
-    "relevance_reason": "deal=6(acquisition,acquisitions); fmcg=2; companies=0"
+    "relevance_reason": "deal=3(acquisition); fmcg=4; companies=0"
   },
   {
     "title": "L'Oreal to acquire majority stake in Indian beauty startup Innovist - Reuters",
@@ -652,11 +823,12 @@
     "domain": "news.google.com",
     "credibility": 1.0,
     "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'reuters'",
-    "dup_count": 4,
+    "dup_count": 5,
     "also_reported_by": [
       "Global Cosmetics News",
       "L'Oréal",
       "Reuters",
+      "Storyboard18",
       "The New Indian Express"
     ],
     "relevance_score": 56,
@@ -679,36 +851,38 @@
     "relevance_reason": "deal=8(acquire,majority stake,stake in); fmcg=2; companies=1"
   },
   {
-    "title": "List of 40 Acquisitions by L'Oreal (Jul 2026) - Tracxn",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW04ZDBkZzNUQTdUWVVtbmVyRktEMVcyS0FPbEI1OXJISHc3WnFsOFQ1V2Q2cGNPOU1lancyUWZLM2JURjhra0ZyQXB0eVFjM0JPOWtNNFFEaHlzLTB2cEJNUGtIREw5cmxWVTZTaHllbWRoY09oSUR0UGUwU2tkZU9BTEpWekhVOTJjaFB4enJxckN5UUw2Vm5BZEdxQ1Q3bUFOYw?oc=5",
-    "summary": "List of 40 Acquisitions by L'Oreal (Jul 2026) Tracxn",
-    "published": "2026-07-01T03:52:32+00:00",
-    "source_name": "Tracxn",
-    "query": "personal care brand acquisition",
-    "title_clean": "List of 40 Acquisitions by L'Oreal (Jul 2026)",
-    "publisher": "Tracxn",
+    "title": "Belle Brands Expands Beauty Portfolio With Acquisition of Clean Skincare Brand Versed - citybiz",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODJEUjA0a2NQUjIxT0JXakxva01JRGJSdjlUX0FucDVES2E2TU5QR2RpRHFoUkxaZDA0YXBIdkVHNzBOMnBORTBJbGl1X0hlZDFNVDUyY0ZFcU9TM21kSWl5NU1FbDVtd0xOdExWTjhoODUwYkZBN3JvTTJ4THV3WUR0MkM3XzRCclFlZmw3YjdqSzQtcHpkN2wzLWQxcmZQNXg1a1V0amsxNnN5aWNaV1hyX0lyU2dPRjJJOVkyUTBfdw?oc=5",
+    "summary": "Belle Brands Expands Beauty Portfolio With Acquisition of Clean Skincare Brand Versed citybiz",
+    "published": "2026-07-09T16:25:38+00:00",
+    "source_name": "citybiz",
+    "query": "beauty brand acquired",
+    "title_clean": "Belle Brands Expands Beauty Portfolio With Acquisition of Clean Skincare Brand Versed",
+    "publisher": "citybiz",
     "domain": "news.google.com",
     "credibility": 0.4,
     "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
+    "dup_count": 3,
     "also_reported_by": [
-      "Tracxn"
+      "Global Cosmetics News",
+      "MediaNews4U",
+      "citybiz"
     ],
-    "relevance_score": 39,
-    "is_relevant": true,
+    "relevance_score": 29,
+    "is_relevant": false,
     "deal_terms_hit": [
-      "acquisition",
-      "acquisitions"
+      "acquisition"
     ],
-    "fmcg_terms_hit": [],
-    "companies_hit": [
-      "l'oreal"
+    "fmcg_terms_hit": [
+      "beauty",
+      "skincare"
     ],
+    "companies_hit": [],
     "acquirer": "",
     "target": "",
     "deal_value": "",
-    "category": "Other / Diversified",
-    "relevance_reason": "deal=6(acquisition,acquisitions); fmcg=0; companies=1"
+    "category": "Beauty & Personal Care",
+    "relevance_reason": "deal=3(acquisition); fmcg=4; companies=0"
   },
   {
     "title": "EXCLUSIVE: Belle Brands, Part of Windsong Global, Acquires Versed - WWD",
@@ -722,10 +896,9 @@
     "domain": "news.google.com",
     "credibility": 0.75,
     "credibility_reason": "Tier 2 (trade press): publisher 'wwd'",
-    "dup_count": 4,
+    "dup_count": 3,
     "also_reported_by": [
       "Beauty Packaging",
-      "Cosmetics Business",
       "Premium Beauty News",
       "WWD"
     ],
@@ -744,41 +917,10 @@
     "relevance_reason": "deal=6(acquire,acquires); fmcg=0; companies=0"
   },
   {
-    "title": "Beauty Farm first-half profit rises on Siyanli acquisition - thebambooworks.com",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1ptZGJkYmhramp1MW53UllsRnktUFFiVFRNaTJhRHlvM1JoMnVGbUVpYnVnUlU4WUV1UXF5WHYydVNVNWZBTkE1RjNORThPMnY1bkVwaVU4Q0hSMzM5dzI5TE5lTWlOX1V0cWZqR1AtM1NBRUNQQlJmdHJaTnBkSE5BYU82SXhKd2hScTMzcw?oc=5",
-    "summary": "Beauty Farm first-half profit rises on Siyanli acquisition thebambooworks.com",
-    "published": "2026-07-20T04:35:03+00:00",
-    "source_name": "thebambooworks.com",
-    "query": "beauty brand acquired",
-    "title_clean": "Beauty Farm first-half profit rises on Siyanli acquisition",
-    "publisher": "thebambooworks.com",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
-    "also_reported_by": [
-      "thebambooworks.com"
-    ],
-    "relevance_score": 23,
-    "is_relevant": false,
-    "deal_terms_hit": [
-      "acquisition"
-    ],
-    "fmcg_terms_hit": [
-      "beauty"
-    ],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Beauty & Personal Care",
-    "relevance_reason": "deal=3(acquisition); fmcg=2; companies=0"
-  },
-  {
     "title": "The Vogue Business Funding Tracker - Vogue",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02b2Y4OEVBeU4yMzJ6UFdZNlFOZzBMWWdfVGVJaWVIVnREZVM2OEZBdkRfQ21lWlR3T1QxSHZ6dHZDVHR6VU82U1YzY2xObU1UejJ4QzVRRXpvM3R5SXBGdDMyNXRaTnBNTmlSRnQ3OHhsZw?oc=5",
     "summary": "The Vogue Business Funding Tracker Vogue",
-    "published": "2026-07-17T11:12:54+00:00",
+    "published": "2026-07-24T13:23:24+00:00",
     "source_name": "Vogue",
     "query": "beauty brand acquired",
     "title_clean": "The Vogue Business Funding Tracker",
@@ -802,39 +944,36 @@
     "relevance_reason": "deal=0(-); fmcg=0; companies=0"
   },
   {
-    "title": "Recode Studios to acquire majority stake in premium beauty brand Aflairza - ET Retail",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTUhNWUVLV3pLbGJlaGx6cUxuTjRDTXViQ0phN3JZRW9OSE9WUEhzT1V1RHFub3RzOGx3S1ZNcllocGI4T2RuWE5udVg2LXY3T3llTkJaMU5XWUgzMU1PdTFiN0IxUWdoMlhEbTlKLW9uYXdmRGZzblI1UEtMa0JBQnc5MXBjTF9lZ1VTYm5XdEptM0dPdi1TQnByZTY3NmRaTUpkQ01PTi1BXzR6c2xwMVB5ejhYNGp3YTl1ZnB5UUJoTzIwNHo1eWJteWx2VVpqOEZkUVQ3Vi1nYmxkVmNtektLek4?oc=5",
-    "summary": "Recode Studios to acquire majority stake in premium beauty brand Aflairza ET Retail",
-    "published": "2026-07-15T08:08:29+00:00",
-    "source_name": "ET Retail",
+    "title": "Updated: Olaplex to 111Skin – All the beauty M&A deals of 2026 so far - Cosmetics Business",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlpkVjdHc3B1cHFnRzVVdk1HaWtnTUREb005cUU2V005RjBKSV9qNDYxTDNWYjZfcmRkSUEycGZBcExJWEttUnYzMnMtRXl3SWdVVEpNa2ZYLTN6MUg5cDhPNUwwdUMtLW5OV09RenQ4a0oyZjF6aWJsRGJHTzdINUoyQklhcVU0Z01JQUp2dnFqTFZNYnU5WjNiZ3V2MmhGSnU2UUFONENmYU1lMVV1b2ZEa3pLdXdK?oc=5",
+    "summary": "Updated: Olaplex to 111Skin – All the beauty M&A deals of 2026 so far Cosmetics Business",
+    "published": "2026-07-13T07:00:00+00:00",
+    "source_name": "Cosmetics Business",
     "query": "beauty brand acquired",
-    "title_clean": "Recode Studios to acquire majority stake in premium beauty brand Aflairza",
-    "publisher": "ET Retail",
+    "title_clean": "Updated: Olaplex to 111Skin – All the beauty M&A deals of 2026 so far",
+    "publisher": "Cosmetics Business",
     "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 3,
+    "credibility": 0.75,
+    "credibility_reason": "Tier 2 (trade press): publisher 'cosmetics business'",
+    "dup_count": 1,
     "also_reported_by": [
-      "ET Retail",
-      "Entrackr",
-      "MediaNews4U"
+      "Cosmetics Business"
     ],
-    "relevance_score": 49,
-    "is_relevant": true,
+    "relevance_score": 18,
+    "is_relevant": false,
     "deal_terms_hit": [
-      "acquire",
-      "majority stake",
-      "stake in"
+      "deal"
     ],
     "fmcg_terms_hit": [
-      "beauty"
+      "beauty",
+      "cosmetics"
     ],
     "companies_hit": [],
     "acquirer": "",
     "target": "",
     "deal_value": "",
     "category": "Beauty & Personal Care",
-    "relevance_reason": "deal=8(acquire,majority stake,stake in); fmcg=2; companies=0"
+    "relevance_reason": "deal=1(deal); fmcg=4; companies=0"
   },
   {
     "title": "Front Row Acquires Carbon Beauty, Deepening Its Investment in the Beauty Category - PR Newswire",
@@ -868,38 +1007,6 @@
     "deal_value": "",
     "category": "Beauty & Personal Care",
     "relevance_reason": "deal=8(acquire,acquires,investment in); fmcg=2; companies=0"
-  },
-  {
-    "title": "Updated: Olaplex to 111Skin – All the beauty M&A deals of 2026 so far - Cosmetics Business",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlpkVjdHc3B1cHFnRzVVdk1HaWtnTUREb005cUU2V005RjBKSV9qNDYxTDNWYjZfcmRkSUEycGZBcExJWEttUnYzMnMtRXl3SWdVVEpNa2ZYLTN6MUg5cDhPNUwwdUMtLW5OV09RenQ4a0oyZjF6aWJsRGJHTzdINUoyQklhcVU0Z01JQUp2dnFqTFZNYnU5WjNiZ3V2MmhGSnU2UUFONENmYU1lMVV1b2ZEa3pLdXdK?oc=5",
-    "summary": "Updated: Olaplex to 111Skin – All the beauty M&A deals of 2026 so far Cosmetics Business",
-    "published": "2026-07-13T07:00:00+00:00",
-    "source_name": "Cosmetics Business",
-    "query": "beauty brand acquired",
-    "title_clean": "Updated: Olaplex to 111Skin – All the beauty M&A deals of 2026 so far",
-    "publisher": "Cosmetics Business",
-    "domain": "news.google.com",
-    "credibility": 0.75,
-    "credibility_reason": "Tier 2 (trade press): publisher 'cosmetics business'",
-    "dup_count": 1,
-    "also_reported_by": [
-      "Cosmetics Business"
-    ],
-    "relevance_score": 18,
-    "is_relevant": false,
-    "deal_terms_hit": [
-      "deal"
-    ],
-    "fmcg_terms_hit": [
-      "beauty",
-      "cosmetics"
-    ],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Beauty & Personal Care",
-    "relevance_reason": "deal=1(deal); fmcg=4; companies=0"
   },
   {
     "title": "Is K-beauty incubator The Founders looking to acquire Dr. Jart+ from Estée Lauder Companies? - Cosmetics Business",
@@ -937,98 +1044,6 @@
     "relevance_reason": "deal=3(acquire); fmcg=4; companies=1"
   },
   {
-    "title": "Location, hours for Hailey Bieber's Rhode makeup pop-up in Newport, RI - The Providence Journal",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNFdCVlBETVZ4aGhnMlQ4NVJydEVqVzVYaGNrRVNFUmg1Y1RzaTFsajFfakZUTlZRTlVKT2NvSnJSTnJLSnF3bkJ4R2xSV0tWdkF3R2ZLNk5IMXRnWFhZVlFUd3p5a3pibF93WHpXT19WcWotLTFqcHZFQVF4RzhpMXE1VkVoUG4yb1BkMnQyNWRfam5yZ1FGYjd3V3locnVmYmFwNWYwSkFITUo2ZWVpTWVhLW9fTmRuTkpEWVpEY09FaElGd2FlS2dvbWFnZ0RvWUFxYXh4RW9CcFZBSEliVVJBOXhMeEljSFl6OERFdmpOVkoy?oc=5",
-    "summary": "Location, hours for Hailey Bieber's Rhode makeup pop-up in Newport, RI The Providence Journal",
-    "published": "2026-06-08T07:00:00+00:00",
-    "source_name": "The Providence Journal",
-    "query": "beauty brand acquired",
-    "title_clean": "Location, hours for Hailey Bieber's Rhode makeup pop-up in Newport, RI",
-    "publisher": "The Providence Journal",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 2,
-    "also_reported_by": [
-      "D Magazine",
-      "The Providence Journal"
-    ],
-    "relevance_score": 0,
-    "is_relevant": false,
-    "deal_terms_hit": [],
-    "fmcg_terms_hit": [],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Other / Diversified",
-    "relevance_reason": "deal=0(-); fmcg=0; companies=0"
-  },
-  {
-    "title": "Jay-Z’s MarcyPen Capital Partners Emerges As Strong Contender For Fenty Beauty - Beauty Independent",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTU9aNWNreXJCLUkxYkFOOEFwbTF5TzR0Sm1LMlZTQWktdkFmVU03MElaZ2FYVnI2bzRKSFItV0E5MndCSFUwQkhQM2I2YXU3eXd1a0UteWtMa2JYN1BZOHczdWV3bW84ZC0wU296RFBhMFlYQUJCVllWNGJmUWRJZV9GMEdCWEx5WWlyWm9yUVgxV2xKWWE0Sk1tRVI0ZkU3bVNGUGZIRQ?oc=5",
-    "summary": "Jay-Z’s MarcyPen Capital Partners Emerges As Strong Contender For Fenty Beauty Beauty Independent",
-    "published": "2026-06-10T07:00:00+00:00",
-    "source_name": "Beauty Independent",
-    "query": "beauty brand acquired",
-    "title_clean": "Jay-Z’s MarcyPen Capital Partners Emerges As Strong Contender For Fenty Beauty",
-    "publisher": "Beauty Independent",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
-    "also_reported_by": [
-      "Beauty Independent"
-    ],
-    "relevance_score": 33,
-    "is_relevant": true,
-    "deal_terms_hit": [
-      "merges",
-      "merge"
-    ],
-    "fmcg_terms_hit": [
-      "beauty"
-    ],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Beauty & Personal Care",
-    "relevance_reason": "deal=5(merges,merge); fmcg=2; companies=0"
-  },
-  {
-    "title": "Former Amazon Aggregator Olsam Group Acquires Wrinkles Schminkles As It Rebrands Into Avenir Collective - Beauty Independent",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0xvTXNoaTF0QmpTRFpzQVVrb0UwVlNIWG1Bd0J0LXlyS2lOeThrNlUtNnZycmVMUHlrbnpJLTk3dXFaaC1SMmdjU19QTVl5YzRfYW5YTUllOTJoRlZFWkV3N0xHNm1OTkY4S01jZE9WV0tmUEdIN01lT3dFcEpSQVhPbDRJbXhscGxVV29UOE5zWGlmeVlqWHhvOWJCVGdvS01pM3loZWhYSnVfd1hPaWx6NjFIS1Q1dm1XeTNsYlpXajNWaWc?oc=5",
-    "summary": "Former Amazon Aggregator Olsam Group Acquires Wrinkles Schminkles As It Rebrands Into Avenir Collective Beauty Independent",
-    "published": "2026-06-29T07:00:00+00:00",
-    "source_name": "Beauty Independent",
-    "query": "beauty brand acquired",
-    "title_clean": "Former Amazon Aggregator Olsam Group Acquires Wrinkles Schminkles As It Rebrands Into Avenir Collective",
-    "publisher": "Beauty Independent",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
-    "also_reported_by": [
-      "Beauty Independent"
-    ],
-    "relevance_score": 39,
-    "is_relevant": true,
-    "deal_terms_hit": [
-      "acquire",
-      "acquires"
-    ],
-    "fmcg_terms_hit": [
-      "beauty"
-    ],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Beauty & Personal Care",
-    "relevance_reason": "deal=6(acquire,acquires); fmcg=2; companies=0"
-  },
-  {
     "title": "Why Elf Is Launching Haircare - Vogue",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03LVJSd2Y2SmxGT0d0cHowWkZiZEllTnZQSDYwSWk0Z3FiRWV2SkttakE3dmx4ZmdJb3g4aTZtb2ZRWFpuX09tNXB5RjFGREJmZFBiTVhmWEZnT21Jc21sd3FmYnMzVkluN1ln?oc=5",
     "summary": "Why Elf Is Launching Haircare Vogue",
@@ -1056,36 +1071,6 @@
     "deal_value": "",
     "category": "Beauty & Personal Care",
     "relevance_reason": "deal=0(-); fmcg=2; companies=0"
-  },
-  {
-    "title": "Bread Beauty Supply’s owner opens up about struggles with latest launch which produced ‘almost no sales’ - Cosmetics Business",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTlVGMnIwR0dQZWc1RTdSSzRPZnBVSGg1Vm0yOVczTmhTVU9jSzlXSDVxdGxUaGtDV1NWLTN0ZmtsalF1RFBudHEzN1ZHVnlNeTU3Nk5FNE92cWpnOVlqMUV5QUN3OXBrLWliWWNwdHRIbVBta0RBTUNPaXh1RXd6ajVneHFNRU05eERhcHozU1RkZw?oc=5",
-    "summary": "Bread Beauty Supply’s owner opens up about struggles with latest launch which produced ‘almost no sales’ Cosmetics Business",
-    "published": "2026-06-15T07:00:00+00:00",
-    "source_name": "Cosmetics Business",
-    "query": "beauty brand acquired",
-    "title_clean": "Bread Beauty Supply’s owner opens up about struggles with latest launch which produced ‘almost no sales’",
-    "publisher": "Cosmetics Business",
-    "domain": "news.google.com",
-    "credibility": 0.75,
-    "credibility_reason": "Tier 2 (trade press): publisher 'cosmetics business'",
-    "dup_count": 1,
-    "also_reported_by": [
-      "Cosmetics Business"
-    ],
-    "relevance_score": 13,
-    "is_relevant": false,
-    "deal_terms_hit": [],
-    "fmcg_terms_hit": [
-      "beauty",
-      "cosmetics"
-    ],
-    "companies_hit": [],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Beauty & Personal Care",
-    "relevance_reason": "deal=0(-); fmcg=4; companies=0"
   },
   {
     "title": "L’Oréal acquires majority stake in Innovist as global giants double down on India - livemint.com",
@@ -1120,10 +1105,75 @@
     "relevance_reason": "deal=11(acquire,acquires,majority stake,stake in); fmcg=0; companies=0"
   },
   {
+    "title": "McCormick plans secondary London listing after Unilever Foods merger, unveils operating structure - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeThGOGF2R2FrQ194SUxyVmNjQ0I1TWg5ai1hN3AteU5rS3ZUZmZMampVeU10d3l3MUYwRjlFYWVIaVMzcjdmN2JlYmFRTmI0S2dPQzNGVE03VWxkejhsbVA4akFTLWJhM2FMZ1hNbE9XbzFfTG5UVWoxNWFtVHFVOHdQbXhETUVNNEdOVlI4eHB2NjFVN1oyMktUZEdOVjkwTmhZYndHR0hmVjRLWnRnVEJlSy0wNnVCcm9Jb1BiZTE4eXVCYWgyOW5sYWY?oc=5",
+    "summary": "McCormick plans secondary London listing after Unilever Foods merger, unveils operating structure Reuters",
+    "published": "2026-07-23T14:32:51+00:00",
+    "source_name": "Reuters",
+    "query": "packaged food company merger",
+    "title_clean": "McCormick plans secondary London listing after Unilever Foods merger, unveils operating structure",
+    "publisher": "Reuters",
+    "domain": "news.google.com",
+    "credibility": 1.0,
+    "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'reuters'",
+    "dup_count": 1,
+    "also_reported_by": [
+      "Reuters"
+    ],
+    "relevance_score": 37,
+    "is_relevant": true,
+    "deal_terms_hit": [
+      "merger",
+      "merge"
+    ],
+    "fmcg_terms_hit": [
+      "food"
+    ],
+    "companies_hit": [
+      "unilever"
+    ],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Food",
+    "relevance_reason": "deal=5(merger,merge); fmcg=1; companies=1"
+  },
+  {
+    "title": "Russia's Arnest Agrees to Buy Reckitt's Local Business, Extending Foreign Asset Buying Spree – FT - The Moscow Times",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVWlfR1VrSnR1Q0ctQXp0SmdWZ0N0LUNUQ1FxdVh2dmc4R3pIQnJUVnM5ZlJIUFk3Y2JpbkRuQ1pYNWFKZjdzcGFMeE94MW9oRE0zMnpiY2kzTUNPNndVMnhVMU1tdDRDd0tJb0k0a2xVSjNkYnBydWpoSHhFREZjS24xOWdVazM4US1uQzhDbElpME5sOUU1ejJSbVd3SnFDbVRxWkVyXzQxUC0tWWpsQlo5TkVPblM5V0dkbnYzV1pwMW9KVXZJbzJyLWx5OFVoeF9WUHBXVnU?oc=5",
+    "summary": "Russia's Arnest Agrees to Buy Reckitt's Local Business, Extending Foreign Asset Buying Spree – FT The Moscow Times",
+    "published": "2026-07-24T14:56:00+00:00",
+    "source_name": "The Moscow Times",
+    "query": "household products company acquisition",
+    "title_clean": "Russia's Arnest Agrees to Buy Reckitt's Local Business, Extending Foreign Asset Buying Spree – FT",
+    "publisher": "The Moscow Times",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "The Moscow Times"
+    ],
+    "relevance_score": 23,
+    "is_relevant": true,
+    "deal_terms_hit": [
+      "to buy"
+    ],
+    "fmcg_terms_hit": [],
+    "companies_hit": [
+      "reckitt"
+    ],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Other / Diversified",
+    "relevance_reason": "deal=3(to buy); fmcg=0; companies=1"
+  },
+  {
     "title": "Smart Home Market Size, Share & Forecast Report, 2032 - Fortune Business Insights",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTVqRTh1cTlLbm5aZVpoeVR4WmRnM1pnczAtdUN3WEVWU0kyVExXOF9zU1A2Q3lSeVduclktRGs1YUFlUWRfM3BsTkc4Q1lmSElpRk96VzFRTHNjSEdvWmNITUZVNE1HeGxvQ3BMb2hfRGh1Q2NSSnotc0o4NndETzQ0SzVSNWZI?oc=5",
     "summary": "Smart Home Market Size, Share & Forecast Report, 2032 Fortune Business Insights",
-    "published": "2026-06-29T07:00:00+00:00",
+    "published": "2026-07-06T07:00:00+00:00",
     "source_name": "Fortune Business Insights",
     "query": "household products company acquisition",
     "title_clean": "Smart Home Market Size, Share & Forecast Report, 2032",
@@ -1147,10 +1197,40 @@
     "relevance_reason": "deal=0(-); fmcg=0; companies=0"
   },
   {
+    "title": "Mile Auto Acquires The Insurance House, Creating One of the Southeast's Most Diversified Technology-Enabled Auto Insurance Platforms - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNXzdrUHB3eV9fTHRWaHF0VlRHWEpqUHpNX0hGUGVoOXcwUWtmQUttajR6cnRubG9kQnR5cjRacDMzOVV6eGFqX2VJakFPMWptVHFKbGRFYVpLZjBDNGh3SG5oQUsxYWFkcm0yb0trcnI1V19OZ04zM0huQmR4UkI1QXN2cEhHNllPOWswOWNRWGZOcjIzOXFTTVY2cWVQaU1OVU92T2J4c0gyajJHWVFuOU1RYlUzTGNwN1VmcWtud1gzbDZNR1M3b2tDdHdyMmRydWpaYlFPbGhBUTd6akNxNWdTNldINXJ6VlJGeF9iMm5RUnlCSnJrbWQ0Q1FsTGdnQnQ3Zy1sZXNJRlZ3Zk1la1hZSjJRQQ?oc=5",
+    "summary": "Mile Auto Acquires The Insurance House, Creating One of the Southeast's Most Diversified Technology-Enabled Auto Insurance Platforms Business Wire",
+    "published": "2026-07-10T07:00:00+00:00",
+    "source_name": "Business Wire",
+    "query": "household products company acquisition",
+    "title_clean": "Mile Auto Acquires The Insurance House, Creating One of the Southeast's Most Diversified Technology-Enabled Auto Insurance Platforms",
+    "publisher": "Business Wire",
+    "domain": "news.google.com",
+    "credibility": 1.0,
+    "credibility_reason": "Tier 1 (wire/financial/primary): publisher 'business wire'",
+    "dup_count": 1,
+    "also_reported_by": [
+      "Business Wire"
+    ],
+    "relevance_score": 32,
+    "is_relevant": false,
+    "deal_terms_hit": [
+      "acquire",
+      "acquires"
+    ],
+    "fmcg_terms_hit": [],
+    "companies_hit": [],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Other / Diversified",
+    "relevance_reason": "deal=6(acquire,acquires); fmcg=0; companies=0"
+  },
+  {
     "title": "Best Consumer Staples Stocks to Buy in 2026 and How to Invest in Them - The Motley Fool",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWQ3UW9GQVFTMXNscGJkOG5meGg5TldWZjhwMzhZc29tdUlsek5xTFNBa2M2QWgtNmd3RzVmUHlGNENiNTFYMEdLUHptMko2MGlBby1WcGJJdHJjUHpfblRoTS10LU9vZXFFVk9od29EaDJCYTFDLWJZSTU2MldXRUpB?oc=5",
     "summary": "Best Consumer Staples Stocks to Buy in 2026 and How to Invest in Them The Motley Fool",
-    "published": "2026-07-14T15:19:00+00:00",
+    "published": "2026-07-14T07:00:00+00:00",
     "source_name": "The Motley Fool",
     "query": "household products company acquisition",
     "title_clean": "Best Consumer Staples Stocks to Buy in 2026 and How to Invest in Them",
@@ -1158,8 +1238,9 @@
     "domain": "news.google.com",
     "credibility": 0.4,
     "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
+    "dup_count": 2,
     "also_reported_by": [
+      "Kavout | AI",
       "The Motley Fool"
     ],
     "relevance_score": 23,
@@ -1178,33 +1259,35 @@
     "relevance_reason": "deal=3(to buy); fmcg=2; companies=0"
   },
   {
-    "title": "Milux proposes RM150m all-share acquisition of smart home rental firm Movon - The Malaysian Reserve",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNDFLX3E0Z3NqNjYzNDFITHVuM1lLbHZ4OXlldzI0X25pU0lSRXdpNjlLOUJqa0tobEtqeURuRGNhR3Qwb2YyV0ptMTAzTjFBWExhd04xZHV4dUZqX1JMTmVGNzBncVhTeVNGUnBqTGlxYkQ0Q211YURYS3lHYlIzQmdwSXNtd0RycmRxNUdoT1dZTHJQcERUdlRQY3Vycm9vUEM3TjBBSEZjUzQ2eUFBZHhuTjBFMVRQdktv?oc=5",
-    "summary": "Milux proposes RM150m all-share acquisition of smart home rental firm Movon The Malaysian Reserve",
-    "published": "2026-07-13T14:19:11+00:00",
-    "source_name": "The Malaysian Reserve",
-    "query": "household products company acquisition",
-    "title_clean": "Milux proposes RM150m all-share acquisition of smart home rental firm Movon",
-    "publisher": "The Malaysian Reserve",
+    "title": "Nestlé spins off premium water business with private equity partner - Inside FMCG",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUNkNVFNOF9vZXVOWThQRjhKMGQ0UzdhdXlFWk52bTJHWmlnRmJiVEh6S3BielpLeDZjMXcyR3BxWkN5czNxX1RZT0lDb3RvaHlBTUJoYm1obFR6dDZ3VnlJUTBFX2NkY1l4dWtmaVdFV2IzZ25MeFQtbzZhS2hBNzBPR2k3SGJpQlVMbl9kQ0tuRDUxX2o0MUJrWFRnZUcxRmNmU0FFOWE?oc=5",
+    "summary": "Nestlé spins off premium water business with private equity partner Inside FMCG",
+    "published": "2026-07-24T11:49:52+00:00",
+    "source_name": "Inside FMCG",
+    "query": "FMCG private equity investment",
+    "title_clean": "Nestlé spins off premium water business with private equity partner",
+    "publisher": "Inside FMCG",
     "domain": "news.google.com",
     "credibility": 0.4,
     "credibility_reason": "Unrecognized source (news.google.com) — default",
     "dup_count": 1,
     "also_reported_by": [
-      "The Malaysian Reserve"
+      "Inside FMCG"
     ],
     "relevance_score": 16,
     "is_relevant": false,
-    "deal_terms_hit": [
-      "acquisition"
+    "deal_terms_hit": [],
+    "fmcg_terms_hit": [
+      "fmcg"
     ],
-    "fmcg_terms_hit": [],
-    "companies_hit": [],
+    "companies_hit": [
+      "nestlé"
+    ],
     "acquirer": "",
     "target": "",
     "deal_value": "",
-    "category": "Other / Diversified",
-    "relevance_reason": "deal=3(acquisition); fmcg=0; companies=0"
+    "category": "Beverages",
+    "relevance_reason": "deal=0(-); fmcg=3; companies=1"
   },
   {
     "title": "Copper & Kings gets backing from FMCG investor - Just Drinks",
@@ -1236,27 +1319,58 @@
     "relevance_reason": "deal=0(-); fmcg=3; companies=0"
   },
   {
-    "title": "Price Prediction: Coca Cola Will Trade at This Price in Two Years - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkZsdUZKanpJVnJFQy1od1VqZDlvUzBjMEd5amQtTDh2YnpWa2dyVXVFVmRqWFNSVUMtZWd5Y2puNGhXd25xMWVPckZXdVg3VlNBSTFjckRDWmI3anp5TUxSRzdnTVlBcGd0emU0aUVjV3JKUjBBY1VUdm9FcjVPLWRvN2lKcVp0NkkyYlpFdTBNUV9XWndyMWZjUlVCSk9GUEZYejdMb2txbFFI?oc=5",
-    "summary": "Price Prediction: Coca Cola Will Trade at This Price in Two Years 24/7 Wall St.",
-    "published": "2026-07-16T17:30:12+00:00",
-    "source_name": "24/7 Wall St.",
+    "title": "Reckitt to divest Russian Hygiene business - Sharecast.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0VfX2FHSTN3eHVPOHRsQzhGazNzMXpZMlRrYmFwOHFzZXpaWHVlcW9RVjVfcFJxQllfdWNYTFZxaDB1b0hla3JPUk5mOElzaXRCQVBiVU1KTks2UWw5bkhuRlJYT2N4X0J6cmF4eEc0QUNLS2VrTE5LNFBPNVVyZDU0dmgtQlExRHNhbzJPQkNTXzM4RTdfNmpqOUs0OElPZTUxRGN1WmlVLW90UjJISQ?oc=5",
+    "summary": "Reckitt to divest Russian Hygiene business Sharecast.com",
+    "published": "2026-07-24T07:10:41+00:00",
+    "source_name": "Sharecast.com",
     "query": "consumer staples divestiture",
-    "title_clean": "Price Prediction: Coca Cola Will Trade at This Price in Two Years",
-    "publisher": "24/7 Wall St.",
+    "title_clean": "Reckitt to divest Russian Hygiene business",
+    "publisher": "Sharecast.com",
     "domain": "news.google.com",
     "credibility": 0.4,
     "credibility_reason": "Unrecognized source (news.google.com) — default",
     "dup_count": 1,
     "also_reported_by": [
-      "24/7 Wall St."
+      "Sharecast.com"
+    ],
+    "relevance_score": 17,
+    "is_relevant": true,
+    "deal_terms_hit": [
+      "divest"
+    ],
+    "fmcg_terms_hit": [],
+    "companies_hit": [
+      "reckitt"
+    ],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Home & Household Care",
+    "relevance_reason": "deal=2(divest); fmcg=0; companies=1"
+  },
+  {
+    "title": "Diageo | History, Products, & Global Strategy | Britannica Money - Encyclopedia Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JaXJrNHVYYUIxTm56emswaVB5SHFHU2FxRDc5dkx5Qnp1WHl0ZEtPUkhqNzExRUpFZ3l6bGpTcVI1LVdqdWV1NDh3a05oYzlOS09mRHF3?oc=5",
+    "summary": "Diageo | History, Products, & Global Strategy | Britannica Money Encyclopedia Britannica",
+    "published": "2026-07-19T07:00:00+00:00",
+    "source_name": "Encyclopedia Britannica",
+    "query": "consumer staples divestiture",
+    "title_clean": "Diageo | History, Products, & Global Strategy | Britannica Money",
+    "publisher": "Encyclopedia Britannica",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "Encyclopedia Britannica"
     ],
     "relevance_score": 6,
     "is_relevant": false,
     "deal_terms_hit": [],
     "fmcg_terms_hit": [],
     "companies_hit": [
-      "coca cola"
+      "diageo"
     ],
     "acquirer": "",
     "target": "",
@@ -1265,20 +1379,20 @@
     "relevance_reason": "deal=0(-); fmcg=0; companies=1"
   },
   {
-    "title": "J.M. Smucker stock trades steady as pet food sale reshapes earnings mix - ad-hoc-news.de",
+    "title": "J.M. Smucker stock trades steady as pet food sale reshapes earnings mix - Ad-hoc-news.de",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnhRVGp0MWFlTnU3akdYalRMNE4wTXNxVnlUUFllMlBqak0tMnBaSlNiQTgxb01STWR4ZXJZYjVtT1lWWEVuMDBjeE9yWUI2bDlCWVM0a2pYVGFHT2VBMHJKZ2dlSjR6ajF0anJPZmRkZ2FhSy03RlRkOFhwNFlzX3F3ZXNIdHhCS3VGamJTbXpDQllJUHNYcUxrTkgzc3RuMEw2UWxwQzJ3UXdrd3NFV2pDczlhZ1NibHNGdkFXc2c1aHJENVNVaw?oc=5",
-    "summary": "J.M. Smucker stock trades steady as pet food sale reshapes earnings mix ad-hoc-news.de",
+    "summary": "J.M. Smucker stock trades steady as pet food sale reshapes earnings mix Ad-hoc-news.de",
     "published": "2026-07-18T05:36:13+00:00",
-    "source_name": "ad-hoc-news.de",
+    "source_name": "Ad-hoc-news.de",
     "query": "consumer staples divestiture",
-    "title_clean": "J.M. Smucker stock trades steady as pet food sale reshapes earnings mix - ad-hoc-news.de",
-    "publisher": "ad-hoc-news.de",
+    "title_clean": "J.M. Smucker stock trades steady as pet food sale reshapes earnings mix - Ad-hoc-news.de",
+    "publisher": "Ad-hoc-news.de",
     "domain": "news.google.com",
     "credibility": 0.4,
     "credibility_reason": "Unrecognized source (news.google.com) — default",
     "dup_count": 2,
     "also_reported_by": [
-      "ad-hoc-news.de"
+      "Ad-hoc-news.de"
     ],
     "relevance_score": 10,
     "is_relevant": false,
@@ -1295,20 +1409,49 @@
     "relevance_reason": "deal=0(-); fmcg=3; companies=0"
   },
   {
-    "title": "Campbell Soup stock steadies as investors weigh Blue Buffalo pet food divestiture and margin outlook - ad-hoc-news.de",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmpsdUJ1QmlkekxlQlk1eTRGMG9hMlIxWXdvcWNDNmZVN3RNbmphVTBSMGlTUDlrWFdnNjdfWGptcjJSYjNLT3lvSDhNcGJxOUdWZXhIVF8tUDd2QlhNV3pGcjViNEgxeFl0SEZsbGNjZWgyeTI0SFJmd1BZMlppWEU4Q0d2ZHFwNF93ZVN1T2drMEZxazI4QUQ3RFJvYWpNQThMR2wzYUFROFhWdW91Y2lEcU8zQUdJYU9Wd1BELUZwVDQwSmw0?oc=5",
-    "summary": "Campbell Soup stock steadies as investors weigh Blue Buffalo pet food divestiture and margin outlook ad-hoc-news.de",
-    "published": "2026-07-17T09:21:47+00:00",
-    "source_name": "ad-hoc-news.de",
+    "title": "General Mills’s (NYSE:GIS) Q2 CY2026 Sales Top Estimates - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQThQZ293dTBiQXpSdXk5X0s5dDdxa1RyWmxsa3RqVXRXMFVXZUxpdWdYdGJXNmxZTlE5MDh6d1RkZGhibk1aQzJjQlV6dkZhdDA0X2dqWnRvY0xRUmREMnI4Qkxxa2FBRThoY2I5eDd5ZVR2QkZBZWtNUWJjcXAydzd0Z19kaFlCNTNtM2toQUxqTHpkLV9sdlBOODR4c0ltU043SGM0YTFfTHB5amgyaG5CN2VLT2NIQlhzR1F2LWpVZWVrM2hUQ3J4VktDNXZQNEE?oc=5",
+    "summary": "General Mills’s (NYSE:GIS) Q2 CY2026 Sales Top Estimates The Globe and Mail",
+    "published": "2026-07-01T07:00:00+00:00",
+    "source_name": "The Globe and Mail",
     "query": "consumer staples divestiture",
-    "title_clean": "Campbell Soup stock steadies as investors weigh Blue Buffalo pet food divestiture and margin outlook - ad-hoc-news.de",
-    "publisher": "ad-hoc-news.de",
+    "title_clean": "General Mills’s (NYSE:GIS) Q2 CY2026 Sales Top Estimates",
+    "publisher": "The Globe and Mail",
     "domain": "news.google.com",
     "credibility": 0.4,
     "credibility_reason": "Unrecognized source (news.google.com) — default",
     "dup_count": 1,
     "also_reported_by": [
-      "ad-hoc-news.de"
+      "The Globe and Mail"
+    ],
+    "relevance_score": 6,
+    "is_relevant": false,
+    "deal_terms_hit": [],
+    "fmcg_terms_hit": [],
+    "companies_hit": [
+      "general mills"
+    ],
+    "acquirer": "",
+    "target": "",
+    "deal_value": "",
+    "category": "Other / Diversified",
+    "relevance_reason": "deal=0(-); fmcg=0; companies=1"
+  },
+  {
+    "title": "Campbell Soup stock steadies as investors weigh Blue Buffalo pet food divestiture and margin outlook - Ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmpsdUJ1QmlkekxlQlk1eTRGMG9hMlIxWXdvcWNDNmZVN3RNbmphVTBSMGlTUDlrWFdnNjdfWGptcjJSYjNLT3lvSDhNcGJxOUdWZXhIVF8tUDd2QlhNV3pGcjViNEgxeFl0SEZsbGNjZWgyeTI0SFJmd1BZMlppWEU4Q0d2ZHFwNF93ZVN1T2drMEZxazI4QUQ3RFJvYWpNQThMR2wzYUFROFhWdW91Y2lEcU8zQUdJYU9Wd1BELUZwVDQwSmw0?oc=5",
+    "summary": "Campbell Soup stock steadies as investors weigh Blue Buffalo pet food divestiture and margin outlook Ad-hoc-news.de",
+    "published": "2026-07-17T09:21:47+00:00",
+    "source_name": "Ad-hoc-news.de",
+    "query": "consumer staples divestiture",
+    "title_clean": "Campbell Soup stock steadies as investors weigh Blue Buffalo pet food divestiture and margin outlook - Ad-hoc-news.de",
+    "publisher": "Ad-hoc-news.de",
+    "domain": "news.google.com",
+    "credibility": 0.4,
+    "credibility_reason": "Unrecognized source (news.google.com) — default",
+    "dup_count": 1,
+    "also_reported_by": [
+      "Ad-hoc-news.de"
     ],
     "relevance_score": 38,
     "is_relevant": true,
@@ -1328,36 +1471,5 @@
     "deal_value": "",
     "category": "Food",
     "relevance_reason": "deal=4(divest,divestiture); fmcg=3; companies=1"
-  },
-  {
-    "title": "General Mills focuses on branded food portfolio as a steady consumer staple - ad-hoc-news.de",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbS0ydGRUdTdzRlRhSFRPLWNDdkNmVFRBU2lsYlpBajc5Wl9PdDFDaVgxVWoxbGw1R3pKREl3NU9UU0hBR3pURkpmNVNjSEtZSmJFWXRYSjhZMlRKTlVuQW1jc2ZwdENPNmFNVE5YbmxaR1c3cFlMOEYwRWhVVDU0alZPXzRaNXBianRXNzFZdy1KaU9WM1liV05zZ2s0LWZsN3hpaE1IbTZrS1laMFczbFl2WDh0aUp0c1lSOGVYcmxrdXNXeVE?oc=5",
-    "summary": "General Mills focuses on branded food portfolio as a steady consumer staple ad-hoc-news.de",
-    "published": "2026-07-08T08:05:39+00:00",
-    "source_name": "ad-hoc-news.de",
-    "query": "consumer staples divestiture",
-    "title_clean": "General Mills focuses on branded food portfolio as a steady consumer staple - ad-hoc-news.de",
-    "publisher": "ad-hoc-news.de",
-    "domain": "news.google.com",
-    "credibility": 0.4,
-    "credibility_reason": "Unrecognized source (news.google.com) — default",
-    "dup_count": 1,
-    "also_reported_by": [
-      "ad-hoc-news.de"
-    ],
-    "relevance_score": 10,
-    "is_relevant": false,
-    "deal_terms_hit": [],
-    "fmcg_terms_hit": [
-      "food"
-    ],
-    "companies_hit": [
-      "general mills"
-    ],
-    "acquirer": "",
-    "target": "",
-    "deal_value": "",
-    "category": "Food",
-    "relevance_reason": "deal=0(-); fmcg=1; companies=1"
   }
 ]
