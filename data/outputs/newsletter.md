@@ -1,11 +1,11 @@
 # FMCG Deal Pulse
 ### Recent M&A & Investment Activity in Fast-Moving Consumer Goods
-_Generated 24 Aug 2026, 07:09_
+_Generated 31 Aug 2026, 13:18_
 
 ## At a glance
 - **21** relevant FMCG deals tracked from **20** sources
-- Pipeline funnel: 83 ingested → 53 after de-duplication (30 removed) → 21 relevant
-- Most active categories: Other / Diversified (7), Food (5), Beauty & Personal Care (5)
+- Pipeline funnel: 78 ingested → 48 after de-duplication (30 removed) → 21 relevant
+- Most active categories: Other / Diversified (8), Food (5), Beauty & Personal Care (5)
 
 ## Top deals this cycle
 1. **Salt Capital → Dispense Logic**. Salt Capital acquires majority stake in Dispense Logic, expanding beverage distribution portfolio
@@ -16,9 +16,9 @@ _Generated 24 Aug 2026, 07:09_
   _Source: 🇨🇦 Grocery Business Canada · credibility 0.40 · relevance 54_  
   https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVdUQlhSNjZfbFp1aThfaHVFNDhzcHRWME1EcDYzU0xmenFGSXMxbjdjckJBT1lOSS1lbjdqYm80Y3B0VUZrU1dmYTVMdERacUdTc3pjNlBLc3RndWxRdjFINEdIaW5BckhETTVyRUplcnJHSVNOR2lzUE1XeHdpTXU2QVl5MjdteDRGaUp3WXhwUlVhQVdieDN0UUxOSWlwaDhGejdQM1lyVUhkRFhKMTAtUkpWc3pKSWRZYUlBNGVWZkRrNnVYVW5CVDA1dlJPUTNyNkVLQQ?oc=5
 
-3. Recode Studios acquires 51% stake in beauty brand Aflairza
-  _Source: Entrackr · credibility 0.40 · relevance 49 · corroborated by 3 sources_  
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFdWVnBMNl83V01mQUxYRzdTUjVBdDVrc2RqYTlKa0pqVDhhLUpkMHU2cXZnVFEwcU5XR1ZaRUNTbG4xSGJiVXlFWUswUFZqUFE1blFqcjZubTFxT0haT1RmVDFvYnZGa0VhcHNRX0NjaHc5N1ZzeHhzY3NKUVRLSW4xM3l5U1lZZUpHSEt2X2ctVmUxbGw0ZDJGdy3SAZwBQVVfeXFMTlBXVlZwTDZfN1dNZkFMWEc3U1I1QXQ1a3NkamE5SmtKalQ4YS1KZDB1NnF2Z1RRMHFOV0dWWkVDU2xuMUhiYlV5RVlLMFBWalBRNW5RanI2bm0xcU9IWk9UZlQxb2J2RmtFYXBzUV9DY2h3OTdWc3h4c2NzSlFUS0luMTN5eVNZWWVKR0hLdl9nLVZlMWxsNGQyRnct?oc=5
+3. Wipro eyes ₹30,000 cr personal care mart, acquires 60% stake in Dermatouch for enterprise value of ₹387.5 cr (30,000 cr)
+  _Source: The Hindu · credibility 0.50 · relevance 53_  
+  https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaS1QM0ZzeTRlWjhuMDlYZ2dfbTM0U0pxYXNSN0xBYlZVd09JaVo3NWlCLXowNDU0MnY3TkR4MUFFblhWb3BLUGxtZHoxNUtkNEk1bFhzdmZqeEJ2THZ6Y3R5WmhpSC1jY21ZUnZ6UzBSM3Y3MlJJWWF2cGhoMzhJMndmR3NjVzdMY19wTnhacTBGdWRaTFN1V3djX3hlTnV6QXJBZ0RVbUFIaG5JZ3U5UW9qRDhmNVlzZWUtTTV2aFF1WWh5TmhicnZ5V1pwTEFLTWNDb2NlX1QtX1Bi0gHjAUFVX3lxTE94SGRDbUFGczU3R3dscWc2Y0JMYzFDbmlmTFBCRVBiU3hrbWREWS15QUwzNy1qeDhjcWt3UmlaWUpycm9WRHBoS1BWYzZjRDFqdHJZSkh1Vk0wVFB2QXZXVzZxcE9UMmZPVG1lZEtiSHN2RWdNdTJ5N1NkS1VrdWZYMmJTeFJrQkJRRUxad0RDbFRwc1lhU1ByMFB0MEhGeENnal90LVg3TGlua0hyY0FKb0pacVIybGhwTndrSVFFTGdUNmpKNkRFSTRUc3hsT1ZtazI4WnBheEp6V1BNTDFuMEhF?oc=5
 
 4. ITC eyes Rs 8 lakh crore FMCG opportunity by 2035, bets on AI and acquisitions
   _Source: The Economic Times · credibility 1.00 · relevance 48 · corroborated by 2 sources_  
@@ -40,20 +40,19 @@ _Generated 24 Aug 2026, 07:09_
   _Source: PR Newswire · credibility 1.00 · relevance 39 · corroborated by 2 sources_  
   https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnlDM0RwUjVRMjdObGFQMkhZQXc5OFJFR1ZXRjFTWTc3YzB3XzhFcmhNbnBKUlZFRzZmNEoxUkZkVjhIRkFnb25PbU5ScHpHemZEeTgya2tlV2dNX1NXUW1Bak53SHpFcktmNUE0VWk1eTVtYzZNeGV5end4eHFXNVBINXlqWVVWRmFTbmc4YXpqN2FuY29YS19XTE9UWVdudjNsZWkwYk9YYVVtNnJOZnI0V2lyNHhwVlN4cW5UZUxYTXdKcXhZ?oc=5
 
-9. ITC turns to AI-led micro-segmentation as acquired brands clock Rs 1,350 crore ARR (rs 1,350 crore)
+9. **KKR → Japanese**. KKR acquires Japanese beauty and lifestyle group Ci Flavors
+  _Source: Premium Beauty News · credibility 0.40 · relevance 39 · corroborated by 2 sources_  
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTluSkVYVmdfXzk3Y2tNZWp2b3ZPTjVjQzZzN0NiMzlReHVEc21wTHRTV0tWRlY2c2xKeDJ5c0x4Rm9mbXR6REpld2VGTEU1RUN0blNjZGhqUE5tbHI4ZXVHdmtrX3RlMzdDRVpKVzdkS0JyV0lTUDQ1TkJETWItRw?oc=5
+
+10. ITC turns to AI-led micro-segmentation as acquired brands clock Rs 1,350 crore ARR (rs 1,350 crore)
   _Source: bestmediainfo.com · credibility 0.40 · relevance 39_  
   https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSWdPN2M5UUtvN2dZS0JjODdWclZ5aUpFeWhON0FzYUdIZG9ITVBia0xxTTFWNFV2NGNFV2NjOGZnemNHc0JQT25ySGpubTM4SGxoTEVxUVNwMHl0djlnSzBMTjF2QldHUF9QTFFYQU9IZEVKWUNMdnFTcFJUZGNqaHVWMGNtQkJEWlNfZVhJSlV0NzJ2TWdGWHQ1UXVRYmdWbHBTbjhkVFJMNVlGcXd0Zy1ZRFlvR0lCdlBSVEVXNWJxY2RnbnpQUXNRWnRfWGxpZU1pcHJUNEJiNnNPdWg00gHfAUFVX3lxTFBJZ083YzlRS283Z1lLQmM4N1ZyVnlpSkV5aE43QXNhR0hkb0hNUGJrTHFNMVY0VXY0Y0VXY2M4Zmd6Y0dzQlBPbnJIam5tMzhIbGhMRXFRU3AweXR2OWdLMExOMXZCV0dQX1BMUVhBT0hkRUpZQ0x2cVNwUlRkY2podVYwY21CQkRaU19lWElKVXQ3MnZNZ0ZYdDVRdVFiZ1ZscFNuOGRUUkw1WUZxd3RnLVlEWW9HSUJ2UFJURVc1YnFjZGduelBRc1FadF9YbGllTWlwclQ0QmI2c091aDQ?oc=5
 
-10. Emami plans to make acquisitions account for a quarter of its business by FY30
-  _Source: Fortune India · credibility 0.40 · relevance 39_  
-  https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGtDZHJLZGF5S1hPcWhDMXZJeC01VHkxaXd2X1FiM3NqcUlkcWN0eEFTS21iU1NpZ0hGOXF6S1FRX0lyU1YzLU5PQ294UWZjTHhacXNPR0wyTF96Vl9IZ3VnZ3BUb1lOYzFLOHdLZUU3Y3Z5Y1ZsbW5obTBVR3huMkMwNG5vMzB5OXJGTHBkcFgwdUZnZ0hMR2FXUjdMUXY3cHBaNmxhMUltbktfcUhYdWtfNXVpS3VITTV3Wk9ITENwTm1lR0U40gHUAUFVX3lxTFBBbzljbzhIRDM0aFM0RDBvSjdVQUlUdDBIM3REaG9BTmtBaThZNFBqRjJiaW1CUTNhNGdXUElJaktUUDBfNW91X0hNOE45RFVRMHpjckV6ckh2bkxCekp2SkE1R1EwcEFjRG93TlVsTDd0dndFSGN0UzRETVRpNXVubnZiejA3bWwzanF1RzRJejIzdUphcGFkMWVTc0xIWDdKaExTZV96UVNUU2hITDZqa2wwTnNQcTBXamJrYlUtbHNFalFVSW5iLWR3ZVJEb3c0Zno2?oc=5
-
 ## By category
-- **Other / Diversified**: 7 deal(s)
+- **Other / Diversified**: 8 deal(s)
 - **Food**: 5 deal(s)
 - **Beauty & Personal Care**: 5 deal(s)
 - **Home & Household Care**: 2 deal(s)
-- **Health & Wellness**: 1 deal(s)
 - **Beverages**: 1 deal(s)
 
 ## How this was built (methodology & assumptions)
