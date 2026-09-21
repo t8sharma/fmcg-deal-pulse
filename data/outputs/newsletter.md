@@ -1,45 +1,50 @@
 # FMCG Deal Pulse
 ### Recent M&A & Investment Activity in Fast-Moving Consumer Goods
-_Generated 14 Sep 2026, 12:24_
+_Generated 21 Sep 2026, 12:31_
 
 ## At a glance
-- **7** relevant FMCG deals tracked from **6** sources
-- Pipeline funnel: 63 ingested → 36 after de-duplication (27 removed) → 7 relevant
-- Most active categories: Beauty & Personal Care (5), Other / Diversified (1), Food (1)
+- **8** relevant FMCG deals tracked from **6** sources
+- Pipeline funnel: 53 ingested → 28 after de-duplication (25 removed) → 8 relevant
+- Most active categories: Beauty & Personal Care (4), Food (2), Beverages (1)
 
 ## Top deals this cycle
-1. Jamieson Wellness to be acquired by Japanese food, beverage, pharmaceutical business Kirin Holdings in $2.5B deal
-  _Source: 🇨🇦 Grocery Business Canada · credibility 0.40 · relevance 54_  
-  https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVdUQlhSNjZfbFp1aThfaHVFNDhzcHRWME1EcDYzU0xmenFGSXMxbjdjckJBT1lOSS1lbjdqYm80Y3B0VUZrU1dmYTVMdERacUdTc3pjNlBLc3RndWxRdjFINEdIaW5BckhETTVyRUplcnJHSVNOR2lzUE1XeHdpTXU2QVl5MjdteDRGaUp3WXhwUlVhQVdieDN0UUxOSWlwaDhGejdQM1lyVUhkRFhKMTAtUkpWc3pKSWRZYUlBNGVWZkRrNnVYVW5CVDA1dlJPUTNyNkVLQQ?oc=5
+1. Wipro eyes ₹30,000 cr personal care mart, acquires 60% stake in Dermatouch for enterprise value of ₹387.5 cr (30,000 cr)
+  _Source: The Hindu · credibility 0.50 · relevance 53_  
+  https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaS1QM0ZzeTRlWjhuMDlYZ2dfbTM0U0pxYXNSN0xBYlZVd09JaVo3NWlCLXowNDU0MnY3TkR4MUFFblhWb3BLUGxtZHoxNUtkNEk1bFhzdmZqeEJ2THZ6Y3R5WmhpSC1jY21ZUnZ6UzBSM3Y3MlJJWWF2cGhoMzhJMndmR3NjVzdMY19wTnhacTBGdWRaTFN1V3djX3hlTnV6QXJBZ0RVbUFIaG5JZ3U5UW9qRDhmNVlzZWUtTTV2aFF1WWh5TmhicnZ5V1pwTEFLTWNDb2NlX1QtX1Bi0gHjAUFVX3lxTE94SGRDbUFGczU3R3dscWc2Y0JMYzFDbmlmTFBCRVBiU3hrbWREWS15QUwzNy1qeDhjcWt3UmlaWUpycm9WRHBoS1BWYzZjRDFqdHJZSkh1Vk0wVFB2QXZXVzZxcE9UMmZPVG1lZEtiSHN2RWdNdTJ5N1NkS1VrdWZYMmJTeFJrQkJRRUxad0RDbFRwc1lhU1ByMFB0MEhGeENnal90LVg3TGlua0hyY0FKb0pacVIybGhwTndrSVFFTGdUNmpKNkRFSTRUc3hsT1ZtazI4WnBheEp6V1BNTDFuMEhF?oc=5
 
-2. Dollar Shave Club Acquires Truly Beauty to Build Personal Care Platform
-  _Source: citybiz · credibility 0.40 · relevance 48 · corroborated by 4 sources_  
-  https://news.google.com/rss/articles/CBMirwFBVV95cUxONFdjOVg5NHRMM085d2JQUXBkNzVQNXE3UGZ1Vm1lTkhUbzdjZFd3WG5GOERjaFhsLTk2VjV0RmIwTFVQN3Nfa003djJwRHBPaWE1eGRDcjlKcFRvUUlEcFpSR01zUHdHV3Fnam1iWng1SlJTVWpldEt1ZG1FbnlXTFFyM1RwaFhIRDF2clktN0ZKcXZDNGFpUG1BMC10UmVzM3ZRQm9CNFhpbFZ2N1Bz?oc=5
+2. NHC Foods: Acquires Lotmor Brands and Walya’s Beverages
+  _Source: InvestyWise · credibility 0.40 · relevance 48_  
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzJNQzZKSk1FRmlrdmwxTnZyU0ZReXcxaVVXTEZwTzIxT0lnWjJhdHBPQ0VVOVVsZWQ5VTFyUGdQazhwVlJaZHNyRWdYMjRjWXp4MXlGR0JHMTJwd1FNb0pUSXh5LWJzRndDYnhMcWJONUlNdExXa2ktV0hwZ1RZOEpDR2NQZk5jX0FFbXl0WUtBcjh5bFE?oc=5
 
-3. Beiersdorf eyes acquisitions to reduce reliance on Nivea
+3. British haute perfumery house Roja London acquired by Extravaganza Beauty
+  _Source: Cosmetics Business · credibility 0.75 · relevance 45 · corroborated by 2 sources_  
+  https://news.google.com/rss/articles/CBMifkFVX3lxTFBJVEtJc0h1SGF3b2RyYkZqemVCbHl5WjBiRjVvSXFOSTRSN29HdUNJMVVFN0J2Y19CNjVBaHNxMlM1d21aczh0THpHZkctTmxHS1FfZW5pTEFqTTFsaFlXb3pJMTNxWld3blllQ1FkTXlhYzFkaVUwczFGUjJDZw?oc=5
+
+4. Estée Lauder Companies on helping acquired ‘indie’ brands thrive as The Ordinary nears $1 billion sales ($1 billion)
   _Source: Cosmetics Business · credibility 0.75 · relevance 45_  
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0JrNno5WVdmeUtzSm1IWjNiSU1wQV96V0NtNVBlWEhhS2IwQU1DRW1UTlU1bGJ5MFlDbGdIX01QdTNDTkx0N2lDcVEweThEQW1EUm1vd19OejE1NDBNalZvajBwNXlaNDdCVVFaZFNTRDJkY2hoLUM3X1BvY1NqcnQwY1VOSzdNMVJ1WGM3SQ?oc=5
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDJ0N2pxOExIWTZaeEk4ejNYbE1XN2RyZWp0NEFubzl4ZGRYZ3hoMVVHVkNkSWxVYUVBSjRzZWx2M00tM0lqaUVWazFlQlRYUEZ5d0dHN2U5U1Q0cnVZS0NXNElxMzZVWGNWR3VtRE5nZ0JtS2Y4eldxMjZMR0kwZXZlUjBPVm5CSUR2LW80ZE9wcXZqU0I4RkRNTHdhQ0Vkdm1tMm5SUWV6UHBjWElVaXd3?oc=5
 
-4. Skyline Beauty Group Acquires Lumin and Meridian from Pangaea Holdings
-  _Source: beautymatter.com · credibility 0.75 · relevance 39 · corroborated by 2 sources_  
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2d3ZDdIcTdfTmt6bzZWNGdpczg5YmRMOFRCTmJIZGhXTzUtNmRLaW1rTGlobWFpTWR4cXJaWW96U2VkM1FEOU5aenIxVGl1ZWNaM25MQ2V6MXFlYjFFRmpQZ3hqbzhQcHdWdEpOVWNOXzFkWVlXam9za1o2VTdxTHBBci1TLWRhQ1dXUlR6LXVvelotZWk0eFg3QktMUlVHU09qbDdLSQ?oc=5
+5. Philadelphia's largest independent craft brewery to be acquired
+  _Source: The Business Journals · credibility 0.40 · relevance 39_  
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjFUbE93d2Fteld4U2JkeEJsZEpkV0w1eHhqUktNTGVlNkN6UDFZUERnWEJKVnV5RGVtQTV4N3FtVXRZWnBhTlpDUVR1TWtKalBER25YSHVRazkxZlBxcUpVTmxvS3lvRVVTT05QVk1VQ3I5VmFyWFZxTzRlRkthdHRxMEVvSnl5OWJ6RlUxbWVGbllDZzBwZlRjRUw2M21kakpzMA?oc=5
 
-5. **E.l.f. Beauty → Rhode**. E.l.f. Beauty acquired Rhode for $1 billion a year ago. It’s been a great investment so far ($1 billion)
-  _Source: Fast Company · credibility 0.40 · relevance 39_  
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE12M3lrVHFMQTUxTE9tRzg2XzgxWG5xbzhhMFVNTi0tNUhoZlBjeHNuV2FqYjRMY2p3TWdaYXdRU0UyMjZZSF9hSWJVdENwNkVBcThGdEJ5MzRxRlVoTFhuNXI3NnNjWk1wdzZCNk90ZzRZQUhfZ2c?oc=5
+6. List of 40 Acquisitions by L'Oreal (Sep 2026)
+  _Source: Tracxn · credibility 0.40 · relevance 39_  
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW04ZDBkZzNUQTdUWVVtbmVyRktEMVcyS0FPbEI1OXJISHc3WnFsOFQ1V2Q2cGNPOU1lancyUWZLM2JURjhra0ZyQXB0eVFjM0JPOWtNNFFEaHlzLTB2cEJNUGtIREw5cmxWVTZTaHllbWRoY09oSUR0UGUwU2tkZU9BTEpWekhVOTJjaFB4enJxckN5UUw2Vm5BZEdxQ1Q3bUFOYw?oc=5
 
-6. Too Faced co-founder reveals true thoughts on impact of Estée Lauder Companies acquisition
-  _Source: Cosmetics Business · credibility 0.75 · relevance 29 · corroborated by 2 sources_  
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGJ6dEp2cVBkN1BEWUFSdjhJN0NZZUl0c00zd0owT0U1UlJUNXBhS0pDaUZ0Vk8telNnZ0lPTl83bjVpMTA5dXZram4tR0g2VkVod3FoVlp0UC0yTnNyZi1SQWdYWjJRbnJOTnJrdFo5TmpOOTd1emt6UHlqalBTaw?oc=5
+7. NHC Foods Approves Strategic Acquisitions
+  _Source: InvestyWise · credibility 0.40 · relevance 35_  
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjd5cDFBR0xhVXl4aW1qSzhxdE1aakRuRkJyLWd0U2VjR0M0YVR3M0FXbnEyNFZ3VEJ1RlhUaE5fT29jOHdtMzFtUXpfeTFkYTZYbVdaNktmUDBNVjhWTUhiUGM5VmhaUkRDSkdyc1hmOGFuaWFrUXhRV2pPbXhoMTJ0WGV0V015MGlvdVZkcWl1WWFVWEx5b2VB?oc=5
 
-7. Dabur India is actively scouting for acquisition targets : Global CEO
-  _Source: thehindubusinessline.com · credibility 1.00 · relevance 23_  
-  https://news.google.com/rss/articles/CBMizwFBVV95cUxNVy1TWDFKVVVtLUhzX0JHeGd4SjFWS3lwMUM0TVBxSUhvZ3h2ZWhEXzFOdDBkY2dBMnZQVFZyUGpxejltVUZESHNBMjJ4VkVnRGZueG9JZWR0QW80WWw5MUFxVmQ4Z2J3VTBVQ2tSWUM5ZlUxWkdUQW1hUExoT3o1T00ya1pGaFN5TjJYR255NGRkLW1jN3h1RGdYcG9WMEhEc1BwcVMyTGw2Mm1XUEZCUmNmLTNBanRYdU1yMTFKX1BkaVJkOFR3MlRUV2FFQmfSAdYBQVVfeXFMTWRLOEliM0o3ZlZlTkQ2SWF6WDZFa0pZc1NaMmdTWUJybDQwSVRQMHpnZjJYTF94dHVXWE9DUzE3c1g5d3h1Ulk0Nzk1R1RNcUl5MklmTXUzejdILTNOd0pHbWpNZllJS2JFMjJiS0x0Qm80SHA1ejZyTnV3S09EbjBJdE5qUXRwdXg4VmFpMGhiUXpMZ0wtM3JfMjhtY2YzQ3VoMGd6Z3pqdjVMYm9GR2RCQjBwMlg1U1ZiV012VE5pSnI1bVQxV0dJNS1iZ21fV0RPMDA4Zw?oc=5
+8. Colgate-Palmolive seeks to divest some personal care brands, sources say
+  _Source: marketscreener.com · credibility 0.40 · relevance 33_  
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTVTSE1SYV9pZENrQ2dpeEU3MGloZW9IV0NGaWc0Q2Z6bDduTzQteUJSb1oyUktUSURJLXZLbjhqMk13clhCYU1vRWdtYVB1ZXUyNXg1b0ZGSlRqWENqZG9iSFUwR3dlR05tcjF2TXFBenRiWEZzOXl3YU8zd0Q1Vi1Od18yS1A1eEUxZENLRk5OM05kdDVrNUJnbmJ3YW9XOVY4Q3BMTDFXRUp2MjFFWlZ1VGF2MDNZTGpFMFhxUy1mUQ?oc=5
 
 ## By category
-- **Beauty & Personal Care**: 5 deal(s)
+- **Beauty & Personal Care**: 4 deal(s)
+- **Food**: 2 deal(s)
+- **Beverages**: 1 deal(s)
 - **Other / Diversified**: 1 deal(s)
-- **Food**: 1 deal(s)
 
 ## How this was built (methodology & assumptions)
 - **Ingestion:** keyless public news (Google News RSS) across FMCG + deal queries.
